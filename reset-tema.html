@@ -1,0 +1,11 @@
+<script>
+  // CFF: o modo escuro passou a ser o padrão (nov/2026).
+  // Apaga uma única vez a escolha de tema gravada antes dessa mudança,
+  // para que todos entrem no escuro; escolhas feitas depois são respeitadas.
+  try {
+    if (window.localStorage.getItem("cff-tema-versao") !== "2") {
+      window.localStorage.removeItem("quarto-color-scheme");
+      window.localStorage.setItem("cff-tema-versao", "2");
+    }
+  } catch (e) { /* navegador sem localStorage: segue o padrão */ }
+</script>

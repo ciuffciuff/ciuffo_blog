@@ -24,7 +24,7 @@ mostra um selo com as iniciais da empresa.
 <ol class="trajetoria">
 
   <li class="traj-item">
-    <div class="traj-logo">
+    <div class="traj-logo logo-cheio logo-apex">
       <img src="imagens/empresas/apexbrasil.png" alt="Logo da Apex-Brasil"
            onerror="this.parentNode.classList.add('sem-logo'); this.remove();">
       <span class="traj-sigla">AB</span>
