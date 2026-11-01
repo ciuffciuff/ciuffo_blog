@@ -1,0 +1,87 @@
+---
+title: "Governança da Apex-Brasil no levantamento do TCU: de 2017 a 2024"
+description: "Resumo e evolução dos índices de governança e gestão da Apex-Brasil nas autoavaliações do Tribunal de Contas da União (iGG e iESGo), que acompanhei e monitorei."
+author: "César Ciuffo"
+date: "2026-11-01"
+categories: [Governança, Gestão Pública, Indicadores, Apex-Brasil]
+---
+
+Todos os anos, o **Tribunal de Contas da União (TCU)** faz um levantamento sobre a governança e a gestão das organizações públicas federais. Cada organização responde a um questionário de autoavaliação, e o TCU devolve um relatório individual com índices de 0% a 100% em temas como liderança, estratégia, pessoas, tecnologia da informação, contratações e orçamento. A partir de 2024, o levantamento passou a incluir também sustentabilidade ambiental e social, no **iESGo**, o primeiro indicador público federal sobre ESG.
+
+Acompanhei e monitorei as autoavaliações da Apex-Brasil nesses levantamentos. Reúno aqui o resumo dos resultados de 2017, 2018, 2021 e 2024.
+
+::: {.callout-note appearance="simple"}
+Os relatórios são do TCU e informam que **todas as suas informações são consideradas públicas**; o próprio Tribunal recomenda que cada organização os divulgue. **Fonte: Tribunal de Contas da União, relatórios individuais de autoavaliação da Apex-Brasil.** Os comentários são pessoais e não representam a posição oficial da Agência.
+:::
+
+## A evolução em números
+
+```{r}
+#| label: fig-igg
+#| fig-cap: "Índices da Apex-Brasil nos levantamentos de governança do TCU. Fonte: TCU."
+#| fig-alt: "Gráfico de barras agrupadas com os índices iGG, iGovPub, iGovPessoas, iGovTI e iGovContrat em 2017, 2018, 2021 e 2024. O iGG passa de 44% em 2017 para 66,8% em 2024; o iGovPessoas vai de 52% para 89,2%; o iGovContrat de 45% para 87%; o iGovTI fica entre 26% e 50%."
+#| echo: false
+#| fig-width: 8
+#| fig-height: 4.5
+
+indices <- matrix(
+  c(44.0, 56.0, 55.4, 66.8,   # iGG
+    53.0, 45.0, 67.2, 76.1,   # iGovPub
+    52.0, 53.0, 66.0, 89.2,   # iGovPessoas
+    26.0, 50.0, 44.3, 41.6,   # iGovTI
+    45.0, 52.0, 68.9, 87.0),  # iGovContrat
+  nrow = 4,
+  dimnames = list(c("2017", "2018", "2021", "2024"),
+                  c("iGG\n(integrado)", "iGovPub\n(governança)", "iGovPessoas\n(pessoas)",
+                    "iGovTI\n(TI)", "iGovContrat\n(contratações)"))
+)
+
+cores <- c("#c9d6ff", "#7f9bff", "#1c46f3", "#00b869")
+op <- par(mar = c(4.5, 4, 1, 1), family = "sans")
+b <- barplot(indices, beside = TRUE, col = cores, border = NA, ylim = c(0, 100),
+             las = 1, ylab = "Índice (%)", cex.names = 0.8)
+text(b, indices + 3, labels = format(indices, decimal.mark = ","), cex = 0.55)
+legend("topleft", legend = rownames(indices), fill = cores, border = NA,
+       bty = "n", horiz = TRUE, cex = 0.85)
+par(op)
+```
+
+| Índice | 2017 | 2018 | 2021 | 2024 |
+|---|---:|---:|---:|---:|
+| **iGG** — índice integrado de governança e gestão públicas | 44% | 56% | 55,4% | **66,8%** |
+| iGovPub — governança pública | 53% | 45% | 67,2% | 76,1% |
+| iGovPessoas — governança e gestão de pessoas | 52% | 53% | 66,0% | 89,2% |
+| iGestPessoas — capacidade em gestão de pessoas | 49% | 60% | 62,8% | 81,0% |
+| iGovTI — governança e gestão de TI | 26% | 50% | 44,3% | 41,6% |
+| iGestTI — capacidade em gestão de TI | 29% | 66% | 55,1% | 44,8% |
+| iGovContrat — governança e gestão de contratações | 45% | 52% | 68,9% | 87,0% |
+| iGestContrat — capacidade em gestão de contratações | 45% | 53% | 59,6% | 79,6% |
+| iGovOrcament — governança e gestão orçamentária | — | — | 53,0% | 67,0% |
+| iGestOrcament — capacidade em gestão orçamentária | — | — | 20,4% | 45,8% |
+
+: Índices da Apex-Brasil nos levantamentos do TCU. Fonte: relatórios individuais de autoavaliação (Acórdãos 588/2018, 2699/2018, 2164/2021 e 1913/2024-TCU-Plenário). {tbl-colwidths="[56,11,11,11,11]"}
+
+Em 2024, o levantamento incluiu os índices de sustentabilidade:
+
+| Índice ESG (2024) | Resultado |
+|---|---:|
+| **iESGo** — índice ESG | **73,5%** |
+| iES — sustentabilidade ambiental e social | 77,3% |
+| iGovSustentAmb — governança e gestão da sustentabilidade ambiental | 70,3% |
+| iGovSustentSocial — governança e gestão da sustentabilidade social | 83,0% |
+
+## O que os números mostram
+
+- O **índice integrado (iGG)** subiu de 44% em 2017 para 66,8% em 2024.
+- Os maiores avanços foram em **pessoas** (iGovPessoas de 52% para 89,2%) e em **contratações** (iGovContrat de 45% para 87%).
+- A **governança pública** (liderança, estratégia e controle) chegou a 76,1% em 2024.
+- **Tecnologia da informação** é o tema que mais oscilou e ficou abaixo da média em 2024 (iGovTI de 41,6%), e a **capacidade em gestão orçamentária** começou baixa (20,4% em 2021), embora tenha avançado para 45,8%.
+
+Uma ressalva importante: o questionário do TCU muda entre os ciclos, com novas práticas e novos índices. Por isso, a comparação entre anos é indicativa da tendência, e não uma medida exata.
+
+## Os relatórios
+
+[iGG 2017 (PDF)](tcu-igg-2017-apex-brasil.pdf){.btn .btn-outline-primary}
+[iGG 2018 (PDF)](tcu-igg-2018-apex-brasil.pdf){.btn .btn-outline-primary}
+[iGG 2021 (PDF)](tcu-igg-2021-apex-brasil.pdf){.btn .btn-outline-primary}
+[iESGo 2024 (PDF)](tcu-iesgo-2024-apex-brasil.pdf){.btn .btn-primary}

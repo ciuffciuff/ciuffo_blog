@@ -20,6 +20,9 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      LANG: C.UTF-8      # acentos corretos nos gráficos do R
+      LC_ALL: C.UTF-8
     steps:
       - name: Baixar o repositório
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
