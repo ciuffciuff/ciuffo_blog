@@ -1,0 +1,30 @@
+---
+title: "Fundos de Investimentos em Renda Fixa: uma ferramenta de desenvolvimento para o Administrador Financeiro"
+description: "Monografia de conclusão do bacharelado em Administração de Empresas (UniCEUB, 2000) sobre fundos de renda fixa na gestão financeira das empresas."
+author: "César Ciuffo"
+date: "2000-10-01"
+date-format: "MMMM [de] YYYY"
+categories: [Administração Financeira, Mercado Financeiro, Monografia]
+secoes: "pesquisa estrategia"
+tipo-publicacao: "Monografia de graduação"
+---
+
+::: {.callout-note appearance="minimal" icon="false"}
+**Monografia de graduação**
+
+MOREIRA, C. A. C. *Fundos de Investimentos em Renda Fixa: uma ferramenta de desenvolvimento para o Administrador Financeiro.* 2000. Monografia (Bacharelado em Administração de Empresas) – Instituto de Ciências Sociais Aplicadas, Centro Universitário de Brasília (UniCEUB), Brasília, 2000. Orientador: Prof. Júlio Cezar Mendes Pereira.
+:::
+
+## Resumo
+
+A Administração Financeira é uma ciência que ocupa área de relevância entre os ramos da Ciência da Administração. Com a Revolução Industrial, tornou-se fundamental para a gestão e controle de recursos no processo produtivo. É uma ferramenta que diferencia entre o sucesso e o fracasso de um empreendimento. Toda e qualquer iniciativa de uma Organização, deve estar calcada num planejamento financeiro sólido e estruturado, que mostre as possibilidades de êxito.
+
+A Administração Financeira "diz respeito às responsabilidades do administrador financeiro numa empresa. Os administradores financeiros administram ativamente as finanças de todos os tipos de empresas, financeiras ou não financeiras, privadas ou públicas, grandes ou pequenas, com ou sem fins lucrativos. Eles desempenham uma variedade de tarefas, tais como orçamentos, previsões financeiras, administração do caixa, administração do crédito, análises de investimentos e captação de fundos" (GITMAN, 1997).
+
+O Mercado Financeiro desponta como um fator essencial e marcante no contexto das Empresas e dos Países. No contexto global dos meios de produção, o fluxo de capitais de investimento tem sido um fator determinante para o desenvolvimento e o crescimento das economias. É uma área restrita aos que possuem o conhecimento e os ativos para determinar os rumos deste setor.
+
+Enfim, percebemos que o Mercado Financeiro é uma fonte disponível ao Administrador Financeiro para o financiamento e o investimento de recursos. Todas as grandes corporações possuem um Departamento Financeiro ágil e capaz, para gerenciar o risco e o retorno de um investimento, garantindo receita e minimizando os custos.
+
+*Referência citada no resumo:* GITMAN, Lawrence J. *Princípios de Administração Financeira.* 7. ed. São Paulo: Harbra, 1997.
+
+[Baixar a monografia completa (PDF, 143 páginas)](monografia-fundos-de-investimento-renda-fixa-2000.pdf){.btn .btn-primary}

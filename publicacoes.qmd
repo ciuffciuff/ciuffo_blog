@@ -66,11 +66,19 @@ Moreira, C. A. C. Dissertação (Mestrado Profissional em Computação Aplicada)
 ## Outros trabalhos
 
 ::: {.callout-note appearance="minimal" icon="false"}
-### 2012
+### 2011
 
 **A atuação da Agência Brasileira de Inteligência no campo das relações internacionais brasileiras.**
-Trabalho de conclusão de curso — Especialização em Relações Internacionais, Universidade de Brasília, 2012.
+Trabalho de conclusão de curso — Especialização em Relações Internacionais, Universidade de Brasília, 2011.
 DOI: [10.26512/2011.04.tcc.2424](https://doi.org/10.26512/2011.04.tcc.2424) · [Sobre o trabalho](pesquisa/2011-04-30-abin-relacoes-internacionais/index.qmd)
+:::
+
+::: {.callout-note appearance="minimal" icon="false"}
+### 2000
+
+**Fundos de Investimentos em Renda Fixa: uma ferramenta de desenvolvimento para o Administrador Financeiro.**
+Monografia de graduação (Bacharelado em Administração de Empresas) – UniCEUB, 2000. Orientador: Prof. Júlio Cezar Mendes Pereira.
+[Sobre o trabalho](pesquisa/2000-10-01-monografia-fundos-renda-fixa/index.qmd)
 :::
 
 <!-- Para incluir uma nova publicação, copie um dos blocos acima e edite. -->
