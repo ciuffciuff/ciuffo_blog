@@ -1,0 +1,4 @@
+/* CFF — troca o logo do menu para a versão reversa no modo escuro */
+body.quarto-dark .navbar-logo {
+  content: url("logo/cff-mark-reverse.svg");
+}

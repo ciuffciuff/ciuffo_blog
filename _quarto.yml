@@ -12,13 +12,13 @@ website:
   description: "CFF — ideias sobre pessoas, dados, estratégia, história e o Brasil no mundo. Por César Ciuffo."
   site-url: https://ciuffciuff.github.io/ciuffo_blog
   repo-url: https://github.com/ciuffciuff/ciuffo_blog
-  favicon: imagens/favicon.svg
+  favicon: logo/cff-mark.svg
   open-graph: true
   search: true
   draft-mode: gone   # rascunhos (draft: true) não são publicados
   navbar:
     title: "CFF"
-    logo: imagens/logo.svg
+    logo: logo/cff-mark.svg
     logo-alt: "Logotipo CFF"
     left:
       - text: Linhas
@@ -60,10 +60,17 @@ website:
       - icon: github
         href: https://github.com/ciuffciuff
 
+brand:
+  light: _brand.yml
+  dark: _brand-dark.yml
+
 format:
   html:
     theme:
-      light: [cosmo, estilo.scss]
+      light: [brand, estilo.scss]
+      dark: [brand, estilo.scss]
+    css: cff.css
+    respect-user-color-scheme: true   # segue o tema claro/escuro do sistema do leitor
     toc: true
     toc-title: "Nesta página"
     code-copy: true

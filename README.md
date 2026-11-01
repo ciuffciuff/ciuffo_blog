@@ -17,13 +17,15 @@ Blog pessoal de César Ciuffo, feito com [Quarto](https://quarto.org) e publicad
 | Arquivo / pasta | Para que serve |
 |---|---|
 | `_quarto.yml` | configurações: título, menu, links, tema |
-| `estilo.scss` | cores e fontes (paleta azul ApexBrasil + âmbar) |
+| `_brand.yml` / `_brand-dark.yml` | identidade visual CFF: cores, fontes e logo (temas claro e escuro) |
+| `estilo.scss` | ajustes de layout (faixas, cartões, destaque da página inicial) |
+| `cff.css` e `logo/` | símbolo CFF e troca do logo no modo escuro |
 | `index.qmd` | página inicial |
 | `about.qmd` | página "Sobre" |
 | `publicacoes.qmd` | lista de artigos publicados |
 | `<seção>/index.qmd` | página de listagem de cada seção |
 | `<seção>/_metadata.yml` | autor e capa padrão dos posts da seção |
-| `imagens/` | logo, favicon e capas das seções |
+| `imagens/` | capas das seções e foto da página Sobre |
 | `_freeze/` | resultados já calculados dos códigos R (não apague) |
 | `.github/workflows/publicar.yml` | publicação automática |
 

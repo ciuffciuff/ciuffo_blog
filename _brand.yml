@@ -1,0 +1,69 @@
+# CFF — Conscience Fast Forward · identidade visual (tema claro)
+# Paleta inspirada no Guia de Marca ApexBrasil v2026. O CFF é um projeto pessoal, não uma marca da ApexBrasil.
+meta:
+  name:
+    short: CFF
+    full: Conscience Fast Forward
+  link:
+    home: https://ciuffciuff.github.io/ciuffo_blog/
+    github: https://github.com/ciuffciuff
+    linkedin: https://www.linkedin.com/in/cesarciuffo
+
+logo:
+  images:
+    mark: logo/cff-mark.svg
+    mark-reverse: logo/cff-mark-reverse.svg
+  small: mark
+  medium: mark
+
+color:
+  palette:
+    azul: "#1c46f3"
+    azul-soft: "#e3eaff"
+    azul-claro: "#497fff"
+    verde: "#00b869"
+    verde-texto: "#007a45"
+    amarelo: "#ffd200"
+    amarelo-forte: "#ffa100"
+    ink: "#0d1020"
+    ink-muted: "#4f5568"
+    surface-alt: "#f4f6fb"
+  background: "#ffffff"
+  foreground: ink
+  primary: azul
+  secondary: ink-muted
+  success: verde-texto
+  info: azul
+  warning: amarelo-forte
+  danger: "#c4262e"
+  light: surface-alt
+  dark: ink
+
+typography:
+  fonts:
+    - family: Inter
+      source: google
+      weight: [400, 500, 600]
+      style: [normal, italic]
+    - family: Lexend
+      source: google
+      weight: [500]
+  base:
+    family: Inter
+    weight: 400
+    line-height: 1.65
+  headings:
+    family: Lexend
+    weight: 500
+    color: ink
+  link:
+    color: azul
+    decoration: underline
+
+defaults:
+  bootstrap:
+    defaults:
+      navbar-bg: "#ffffff"
+      navbar-fg: "#0d1020"
+      navbar-hl: "#1c46f3"
+      footer-bg: "#f4f6fb"

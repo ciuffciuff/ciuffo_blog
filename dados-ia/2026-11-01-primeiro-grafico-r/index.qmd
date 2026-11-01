@@ -21,7 +21,7 @@ plot(
   xlab = "Peso (mil libras)", ylab = "Milhas por galão",
   main = "Carros mais pesados consomem mais"
 )
-abline(lm(mpg ~ wt, data = mtcars), col = "#F2A900", lwd = 3)
+abline(lm(mpg ~ wt, data = mtcars), col = "#00b869", lwd = 3)
 ```
 
 E um resumo rápido do modelo:
