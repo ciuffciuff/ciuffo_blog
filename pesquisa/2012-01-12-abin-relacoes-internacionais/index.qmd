@@ -1,0 +1,25 @@
+---
+title: "A atuação da Agência Brasileira de Inteligência no campo das relações internacionais brasileiras"
+description: "A ABIN e as relações internacionais brasileiras (especialização em RI, UnB)."
+author: "César Ciuffo"
+date: "2012-01-12"
+categories: [Relações Internacionais, Inteligência, TCC]
+secoes: "pesquisa internacional"
+tipo-publicacao: "Trabalho de conclusão de curso"
+---
+
+::: {.callout-note appearance="minimal" icon="false"}
+**Trabalho de conclusão de curso**
+
+MOREIRA, C. A. C. *A atuação da Agência Brasileira de Inteligência no campo das relações internacionais brasileiras.* Trabalho de conclusão de curso (Especialização em Relações Internacionais) – Universidade de Brasília, 2012.
+
+DOI: [10.26512/2011.04.tcc.2424](https://doi.org/10.26512/2011.04.tcc.2424)
+:::
+
+## Sobre o trabalho
+
+Trabalho de conclusão da especialização em **Relações Internacionais** na Universidade de Brasília, sobre a atuação da **Agência Brasileira de Inteligência (ABIN)** no campo das relações internacionais do Brasil.
+
+**Palavras-chave:** Inteligência de Estado, ABIN, relações internacionais, política externa
+
+[Ler o trabalho completo](https://doi.org/10.26512/2011.04.tcc.2424){.btn .btn-primary}

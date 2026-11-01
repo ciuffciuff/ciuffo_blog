@@ -1,16 +1,43 @@
 ---
 title: "Gestão de Pessoas"
 subtitle: "People Analytics, cultura, experiência do colaborador e o dia a dia do RH."
-listing:
-  sort: "date desc"
-  type: grid
-  grid-columns: 3
-  categories: true
-  feed: true
-  sort-ui: true
-  filter-ui: true
-  fields: [image, date, title, description, categories, reading-time]
-  date-format: "DD/MM/YYYY"
 page-layout: full
 toc: false
+listing:
+  - id: posts
+    contents: "*/index.qmd"
+    sort: "date desc"
+    type: grid
+    grid-columns: 3
+    categories: true
+    feed: true
+    sort-ui: true
+    filter-ui: true
+    fields: [image, date, title, description, categories, reading-time]
+    date-format: "DD/MM/YYYY"
+  - id: pesquisa-relacionada
+    contents: "../pesquisa/*/index.qmd"
+    include:
+      secoes: "*gestao*"
+    sort: "date desc"
+    type: table
+    fields: [date, title, tipo-publicacao]
+    field-display-names:
+      tipo-publicacao: "Tipo"
+      title: "Trabalho"
+      date: "Data"
+    date-format: "YYYY"
+    sort-ui: false
+    filter-ui: false
 ---
+
+
+::: {#posts}
+:::
+
+## Pesquisa relacionada
+
+Artigos e trabalhos acadêmicos da seção [Pesquisa](../pesquisa/index.qmd) ligados a este tema.
+
+::: {#pesquisa-relacionada}
+:::

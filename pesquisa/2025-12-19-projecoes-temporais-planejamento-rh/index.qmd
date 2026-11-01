@@ -1,0 +1,27 @@
+---
+title: "Temporal Projections for Strategic Planning in Human Resources"
+description: "ARIMA, Holt-Winters e SARIMA comparados para prever o absenteísmo e apoiar o planejamento de RH."
+author: "César Ciuffo"
+date: "2025-12-19"
+categories: [Séries Temporais, Planejamento de RH, Absenteísmo, Artigo]
+secoes: "pesquisa gestao dados-ia estrategia"
+tipo-publicacao: "Artigo em periódico"
+---
+
+::: {.callout-note appearance="minimal" icon="false"}
+**Artigo em periódico**
+
+MOREIRA, C. A. C. Temporal Projections for Strategic Planning in Human Resources. *Revista Gestão & Tecnologia*, v. 25, n. 5, p. 10–53, 2025.
+
+DOI: [10.20397/2177-6652/2025.v25i5.3171](https://doi.org/10.20397/2177-6652/2025.v25i5.3171)
+:::
+
+## Sobre o trabalho
+
+O artigo explora o uso de modelos de **séries temporais** para prever o absenteísmo e apoiar o planejamento estratégico de Recursos Humanos.
+
+Numa abordagem quantitativa, compara os modelos **ARIMA**, **Holt-Winters** e **SARIMA**, com as vantagens e limitações de cada um. A contribuição é preencher uma lacuna na aplicação de projeções temporais à área de RH e oferecer aos gestores ferramentas práticas para antecipar tendências e planejar melhor.
+
+**Palavras-chave:** Séries temporais, absenteísmo, ARIMA, Holt-Winters, SARIMA, planejamento de RH
+
+[Ler o trabalho completo](https://doi.org/10.20397/2177-6652/2025.v25i5.3171){.btn .btn-primary}

@@ -1,0 +1,30 @@
+---
+title: "Modelo Preditivo de Absenteísmo e Clusterização de Perfis Comportamentais: uma abordagem de people analytics aplicada à gestão de frequência organizacional"
+description: "Score de risco com Random Forest e perfis comportamentais com K-Means para antecipar o absenteísmo."
+author: "César Ciuffo"
+date: "2026-06-30"
+categories: [People Analytics, Aprendizado de Máquina, Absenteísmo, Artigo]
+secoes: "pesquisa gestao dados-ia"
+tipo-publicacao: "Artigo em periódico"
+---
+
+::: {.callout-note appearance="minimal" icon="false"}
+**Artigo em periódico**
+
+CIUFFO MOREIRA, C. A.; LOPES, B.; CELLA, P. Modelo Preditivo de Absenteísmo e Clusterização de Perfis Comportamentais: uma abordagem de people analytics aplicada à gestão de frequência organizacional. *Revista de Ciência da Computação (ReCiC/UESB)*, v. 8, n. 1, e19583, 2026.
+
+DOI: [10.22481/recic.v8i1.19583](https://doi.org/10.22481/recic.v8i1.19583)
+:::
+
+## Sobre o trabalho
+
+O artigo propõe uma abordagem integrada de People Analytics para a gestão preditiva do absenteísmo, seguindo a metodologia CRISP-DM. Ela combina duas frentes:
+
+- um **Score de Risco**, com Random Forest, que estima a probabilidade de ausência em janelas de 7, 30 e 90 dias;
+- uma **clusterização híbrida** com K-Means, que separa os colaboradores em quatro perfis comportamentais.
+
+O estudo usou 14.533 eventos de ausência de 676 colaboradores, de 2019 a 2025. O modelo preditivo foi escolhido entre 14 candidatos e chegou a AUC de 0,855. Os resultados foram levados a um protótipo de painel em Power BI para uso pela área de RH.
+
+**Palavras-chave:** People Analytics, Absenteísmo, Aprendizado de Máquina, CRISP-DM, Random Forest, K-Means, Clusterização, Score de Risco
+
+[Ler o trabalho completo](https://periodicos2.uesb.br/recic/article/view/19583){.btn .btn-primary}

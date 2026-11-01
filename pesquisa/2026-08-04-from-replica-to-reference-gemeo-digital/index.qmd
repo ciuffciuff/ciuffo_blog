@@ -1,0 +1,23 @@
+---
+title: "From Replica to Reference: Active Learning in Engineering Education for Digital Twin-Guided Real-System Evolution"
+description: "Aprendizagem ativa e gêmeos digitais no ensino de engenharia (PAEE/ALE 2026)."
+author: "César Ciuffo"
+date: "2026-08-04"
+categories: [Gêmeos Digitais, Aprendizagem Ativa, Evento]
+secoes: "pesquisa dados-ia"
+tipo-publicacao: "Trabalho em evento"
+---
+
+::: {.callout-note appearance="minimal" icon="false"}
+**Trabalho em evento**
+
+*From Replica to Reference: Active Learning in Engineering Education for Digital Twin-Guided Real-System Evolution.* PAEE/ALE 2026 — International Conference on Active Learning in Engineering Education, 2026.
+:::
+
+## Sobre o trabalho
+
+Trabalho apresentado na **PAEE/ALE 2026**, a International Conference on Active Learning in Engineering Education, sobre aprendizagem ativa no ensino de engenharia e o uso de **gêmeos digitais** para orientar a evolução de sistemas reais.
+
+**Palavras-chave:** Gêmeos digitais, aprendizagem ativa, educação em engenharia
+
+[Ler o trabalho completo](https://www.researchgate.net/publication/412304828_From_Replica_to_Reference_Active_Learning_in_Engineering_Education_for_Digital_Twin-Guided_Real-System_Evolution){.btn .btn-primary}

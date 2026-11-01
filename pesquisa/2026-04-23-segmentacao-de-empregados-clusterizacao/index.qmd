@@ -1,0 +1,27 @@
+---
+title: "Employee segmentation using clustering techniques: a case study at ApexBrasil"
+description: "K-Means, hierárquico e DBSCAN comparados para segmentar a força de trabalho de uma organização pública."
+author: "César Ciuffo"
+date: "2026-04-23"
+categories: [People Analytics, Clusterização, Setor Público, Artigo]
+secoes: "pesquisa gestao dados-ia"
+tipo-publicacao: "Artigo em periódico"
+---
+
+::: {.callout-note appearance="minimal" icon="false"}
+**Artigo em periódico**
+
+CIUFFO MOREIRA, C. A. Employee segmentation using clustering techniques: a case study at ApexBrasil. *Revista Gestão em Análise (ReGeA)*, v. 15, n. 1, e6206, 2026.
+
+DOI: [10.12662/2359-618xregea.v15i1.6206.pe6206.2026](https://doi.org/10.12662/2359-618xregea.v15i1.6206.pe6206.2026)
+:::
+
+## Sobre o trabalho
+
+O artigo investiga como técnicas de aprendizado de máquina não supervisionado podem apoiar o People Analytics em organizações públicas brasileiras, um contexto de baixa maturidade analítica.
+
+Com dados anonimizados dos empregados ativos da ApexBrasil entre 2019 e 2023, e seguindo o CRISP-DM, o estudo compara **K-Means**, **Clustering Hierárquico** e **DBSCAN**. O DBSCAN teve os melhores índices de silhueta, mas classificou muitos registros como ruído. Por isso, o K-Means com **oito grupos** foi escolhido, pelo melhor equilíbrio entre qualidade técnica e cobertura da amostra. O resultado é um caminho replicável para outras organizações públicas, mesmo com dados administrativos limitados.
+
+**Palavras-chave:** people analytics; clustering; employee segmentation; K-Means; DBSCAN; Hierarchical Clustering; human resources data science
+
+[Ler o trabalho completo](https://doi.org/10.12662/2359-618xregea.v15i1.6206.pe6206.2026){.btn .btn-primary}

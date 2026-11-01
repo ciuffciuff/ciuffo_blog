@@ -1,0 +1,25 @@
+---
+title: "People Analytics: um estudo de caso de ciência de dados na Gerência de Recursos Humanos da Apex-Brasil"
+description: "Agrupamento, classificação e séries temporais aplicados à gestão de pessoas da Apex-Brasil (UnB, 2025)."
+author: "César Ciuffo"
+date: "2025-06-30"
+categories: [People Analytics, Ciência de Dados, Dissertação]
+secoes: "pesquisa gestao dados-ia"
+tipo-publicacao: "Dissertação de mestrado"
+---
+
+::: {.callout-note appearance="minimal" icon="false"}
+**Dissertação de mestrado**
+
+MOREIRA, C. A. C. *People Analytics: um estudo de caso de ciência de dados na Gerência de Recursos Humanos da Apex-Brasil.* 2025. Dissertação (Mestrado Profissional em Computação Aplicada) – Universidade de Brasília, Brasília, 2025. Orientador: Prof. Dr. Gladston Luiz da Silva.
+:::
+
+## Sobre o trabalho
+
+A dissertação estuda o **People Analytics**, o uso de ciência de dados na gestão de pessoas, num momento em que a Apex-Brasil passava por forte automação e digitalização de processos.
+
+Seguindo todas as fases do CRISP-DM, o trabalho testa técnicas de **agrupamento**, **classificação** e **projeção de séries temporais** para segmentar empregados, classificá-los e prever o absenteísmo, e termina com uma proposta de implantação dos modelos na Agência. Os artigos sobre segmentação e séries temporais publicados depois nasceram desta pesquisa.
+
+**Palavras-chave:** People Analytics, HR Analytics, Workforce Analytics, Agrupamento, Classificação, Séries Temporais, Projeções
+
+[Ler o trabalho completo](https://repositorio.unb.br/bitstream/10482/52667/1/CesarAntonioCiuffoMoreira_DISSERT.pdf){.btn .btn-primary}

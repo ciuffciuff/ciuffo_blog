@@ -16,12 +16,12 @@ Nome em citações: **César Antônio Ciuffo Moreira** (Moreira, C. A. C.).
 **Modelo Preditivo de Absenteísmo e Clusterização de Perfis Comportamentais: uma abordagem de people analytics aplicada à gestão de frequência organizacional.**
 Ciuffo Moreira, C. A.; Lopes, B.; Cella, P.
 *Revista de Ciência da Computação (ReCiC/UESB)*, v. 8, n. 1, e19583, 30 jun. 2026.
-DOI: [10.22481/recic.v8i1.19583](https://doi.org/10.22481/recic.v8i1.19583)
+DOI: [10.22481/recic.v8i1.19583](https://doi.org/10.22481/recic.v8i1.19583) · [Sobre o trabalho](pesquisa/2026-06-30-absenteismo-preditivo-clusterizacao/index.qmd)
 
 **Employee segmentation using clustering techniques: a case study at ApexBrasil.**
 Ciuffo Moreira, C. A.
 *Revista Gestão em Análise (ReGeA)*, v. 15, n. 1, e6206, 23 abr. 2026.
-DOI: [10.12662/2359-618xregea.v15i1.6206.pe6206.2026](https://doi.org/10.12662/2359-618xregea.v15i1.6206.pe6206.2026)
+DOI: [10.12662/2359-618xregea.v15i1.6206.pe6206.2026](https://doi.org/10.12662/2359-618xregea.v15i1.6206.pe6206.2026) · [Sobre o trabalho](pesquisa/2026-04-23-segmentacao-de-empregados-clusterizacao/index.qmd)
 :::
 
 ::: {.callout-note appearance="minimal" icon="false"}
@@ -30,7 +30,7 @@ DOI: [10.12662/2359-618xregea.v15i1.6206.pe6206.2026](https://doi.org/10.12662/2
 **Temporal Projections for Strategic Planning in Human Resources.**
 Ciuffo Moreira, C. A.
 *Revista Gestão & Tecnologia*, v. 25, n. 5, p. 10–53, 19 dez. 2025. ISSN 2177-6652.
-DOI: [10.20397/2177-6652/2025.v25i5.3171](https://doi.org/10.20397/2177-6652/2025.v25i5.3171)
+DOI: [10.20397/2177-6652/2025.v25i5.3171](https://doi.org/10.20397/2177-6652/2025.v25i5.3171) · [Sobre o trabalho](pesquisa/2025-12-19-projecoes-temporais-planejamento-rh/index.qmd)
 :::
 
 ## Trabalhos em eventos
@@ -40,7 +40,7 @@ DOI: [10.20397/2177-6652/2025.v25i5.3171](https://doi.org/10.20397/2177-6652/202
 
 **From Replica to Reference: Active Learning in Engineering Education for Digital Twin-Guided Real-System Evolution.**
 *PAEE/ALE 2026 — International Conference on Active Learning in Engineering Education*, 4 ago. 2026.
-[Disponível no ResearchGate](https://www.researchgate.net/publication/412304828_From_Replica_to_Reference_Active_Learning_in_Engineering_Education_for_Digital_Twin-Guided_Real-System_Evolution)
+[Disponível no ResearchGate](https://www.researchgate.net/publication/412304828_From_Replica_to_Reference_Active_Learning_in_Engineering_Education_for_Digital_Twin-Guided_Real-System_Evolution) · [Sobre o trabalho](pesquisa/2026-08-04-from-replica-to-reference-gemeo-digital/index.qmd)
 :::
 
 ## Capítulos de livro
@@ -50,7 +50,17 @@ DOI: [10.20397/2177-6652/2025.v25i5.3171](https://doi.org/10.20397/2177-6652/202
 
 **Segmentação de carteira de clientes com base no Cadastro Nacional de Empresas Exportadoras Brasileiras.**
 In: *Projetos de Pesquisa em Data Science: estudo de caso sobre a ApexBrasil*. Instituto Tecnológico de Aeronáutica (ITA), Turma ApexBrasil, 2024. ISBN 978-65-5360-680-7.
-DOI: [10.37885/240717123](https://doi.org/10.37885/240717123)
+DOI: [10.37885/240717123](https://doi.org/10.37885/240717123) · [Sobre o trabalho](pesquisa/2024-07-17-segmentacao-carteira-exportadoras/index.qmd)
+:::
+
+## Dissertação
+
+::: {.callout-note appearance="minimal" icon="false"}
+### 2025
+
+**People Analytics: um estudo de caso de ciência de dados na Gerência de Recursos Humanos da Apex-Brasil.**
+Moreira, C. A. C. Dissertação (Mestrado Profissional em Computação Aplicada) – Universidade de Brasília, 2025. Orientador: Prof. Dr. Gladston Luiz da Silva.
+[Texto completo no Repositório da UnB](https://repositorio.unb.br/bitstream/10482/52667/1/CesarAntonioCiuffoMoreira_DISSERT.pdf) · [Sobre o trabalho](pesquisa/2025-06-30-dissertacao-people-analytics-apex-brasil/index.qmd)
 :::
 
 ## Outros trabalhos
@@ -60,7 +70,7 @@ DOI: [10.37885/240717123](https://doi.org/10.37885/240717123)
 
 **A atuação da Agência Brasileira de Inteligência no campo das relações internacionais brasileiras.**
 Trabalho de conclusão de curso — Especialização em Relações Internacionais, Universidade de Brasília, 2012.
-DOI: [10.26512/2011.04.tcc.2424](https://doi.org/10.26512/2011.04.tcc.2424)
+DOI: [10.26512/2011.04.tcc.2424](https://doi.org/10.26512/2011.04.tcc.2424) · [Sobre o trabalho](pesquisa/2012-01-12-abin-relacoes-internacionais/index.qmd)
 :::
 
 <!-- Para incluir uma nova publicação, copie um dos blocos acima e edite. -->

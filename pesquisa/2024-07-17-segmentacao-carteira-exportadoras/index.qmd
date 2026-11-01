@@ -1,0 +1,25 @@
+---
+title: "Segmentação de Carteira de Clientes com Base no Cadastro Nacional de Empresas Exportadoras Brasileiras"
+description: "Ciência de dados para segmentar a carteira de clientes a partir do cadastro de exportadoras (ITA, 2024)."
+author: "César Ciuffo"
+date: "2024-07-17"
+categories: [Inteligência Comercial, Comércio Exterior, Ciência de Dados, Capítulo]
+secoes: "pesquisa internacional dados-ia"
+tipo-publicacao: "Capítulo de livro"
+---
+
+::: {.callout-note appearance="minimal" icon="false"}
+**Capítulo de livro**
+
+BONECKER, R. M. M.; MOREIRA, C. A. C.; PAULA, D. E. C.; VERRI, F. A. N. Segmentação de Carteira de Clientes com Base no Cadastro Nacional de Empresas Exportadoras Brasileiras. In: VERRI, F. A. N.; CURTIS, V. V.; SBRUZZI, E. F. (Org.). *Projetos de Pesquisa em Data Science: estudo de caso sobre a Apex-Brasil – ITA.* Guarujá: Editora Científica Digital, 2024, v. 1, p. 116–144. ISBN 978-65-5360-680-7.
+
+DOI: [10.37885/240717123](https://doi.org/10.37885/240717123)
+:::
+
+## Sobre o trabalho
+
+Capítulo do livro *Projetos de Pesquisa em Data Science: estudo de caso sobre a Apex-Brasil*, resultado da especialização em Ciência de Dados do **ITA** com a turma da Apex-Brasil. O trabalho aplica ciência de dados à **segmentação da carteira de clientes** da Agência, a partir do **Cadastro Nacional de Empresas Exportadoras Brasileiras**.
+
+**Palavras-chave:** Segmentação de clientes, empresas exportadoras, ciência de dados, inteligência comercial
+
+[Ler o trabalho completo](https://doi.org/10.37885/240717123){.btn .btn-primary}
