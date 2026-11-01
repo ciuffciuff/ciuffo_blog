@@ -68,11 +68,10 @@ brand:
 
 format:
   html:
-    theme:
-      light: [brand, estilo.scss]
+    theme:                      # o primeiro tema listado é o padrão: escuro
       dark: [brand, estilo.scss]
+      light: [brand, estilo.scss]
     css: cff.css
-    respect-user-color-scheme: true   # segue o tema claro/escuro do sistema do leitor
     toc: true
     toc-title: "Nesta página"
     code-copy: true
