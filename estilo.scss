@@ -107,3 +107,85 @@ blockquote {
 }
 
 .nav-footer { font-size: .9rem; }
+
+// ---- Página Trajetória (linha do tempo) ----
+.traj-numeros {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 2.5rem;
+  div {
+    background: mix($body-bg, $primary, 95%);
+    border-radius: 12px;
+    padding: 1rem 1.1rem;
+    border-left: 4px solid $cff-verde;
+  }
+  strong { display: block; font-family: "Lexend", sans-serif; font-weight: 500; font-size: 1.9rem; color: $primary; line-height: 1.1; }
+  span { font-size: .88rem; opacity: .85; }
+}
+
+ol.trajetoria {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  position: relative;
+  &::before {                       // linha vertical
+    content: "";
+    position: absolute;
+    left: 35px; top: 8px; bottom: 8px;
+    width: 3px;
+    background: linear-gradient($primary, $cff-verde);
+    border-radius: 2px;
+  }
+}
+.traj-item {
+  display: grid;
+  grid-template-columns: 72px 1fr;
+  gap: 1.25rem;
+  margin-bottom: 2rem;
+  position: relative;
+}
+.traj-logo {
+  width: 72px; height: 72px;
+  border-radius: 16px;
+  background: #fff;                  // logos de terceiros ficam sempre sobre branco
+  border: 2px solid $primary;
+  display: flex; align-items: center; justify-content: center;
+  overflow: hidden;
+  position: relative; z-index: 1;
+  img { max-width: 56px; max-height: 56px; object-fit: contain; }
+  .traj-sigla { display: none; }
+  &.sem-logo {
+    background: $cff-azul;
+    border-color: $cff-azul;
+    .traj-sigla { display: block; color: #fff; font-family: "Lexend", sans-serif; font-weight: 500; font-size: 1.3rem; }
+  }
+}
+.traj-card {
+  background: mix($body-bg, $primary, 96%);
+  border-radius: 14px;
+  padding: 1.1rem 1.4rem .6rem;
+  h2 { font-size: 1.35rem; margin: 0; border: none; padding: 0; small { font-size: .8em; opacity: .7; } }
+  h3 { font-size: 1.02rem; margin: 1.1rem 0 .4rem; font-family: "Inter", sans-serif; font-weight: 600; }
+  ul { margin-bottom: .6rem; padding-left: 1.1rem; }
+  li { margin-bottom: .3rem; }
+}
+.traj-topo { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: .5rem; }
+.traj-periodo {
+  font-size: .85rem; font-weight: 600;
+  background: $primary; color: #fff;
+  border-radius: 999px; padding: .15rem .7rem;
+  white-space: nowrap;
+}
+.traj-empresa { margin: .3rem 0 .2rem; opacity: .8; font-size: .95rem; }
+.traj-tag {
+  font-size: .72rem; font-weight: 600; text-transform: uppercase; letter-spacing: .04em;
+  border: 1px solid rgba($primary, .5); border-radius: 999px; padding: .05rem .5rem; margin-left: .3rem;
+  vertical-align: middle;
+}
+@media (max-width: 576px) {
+  ol.trajetoria::before { left: 23px; }
+  .traj-item { grid-template-columns: 48px 1fr; gap: .8rem; }
+  .traj-logo { width: 48px; height: 48px; border-radius: 12px; img { max-width: 38px; max-height: 38px; } }
+  .traj-logo.sem-logo .traj-sigla { font-size: 1rem; }
+}

@@ -37,6 +37,8 @@ website:
             text: História
           - href: cronicas/index.qmd
             text: Crônicas
+      - href: trajetoria.qmd
+        text: Trajetória
       - href: publicacoes.qmd
         text: Publicações
       - href: about.qmd
