@@ -16,7 +16,7 @@ O site está organizado em linhas de publicação:
 
 - **Pesquisa** — o doutorado, artigos e o que aprendo pelo caminho;
 - **Gestão de Pessoas** — People Analytics, cultura e o dia a dia do RH;
-- **Planejamento & Estratégia** — processos, governança e indicadores;
+- **Governança, Planejamento & Estratégia** — processos, governança e indicadores;
 - **Dados & IA** — R, inteligência artificial e privacidade, com tutoriais;
 - **Brasil no Mundo** — comércio exterior e internacionalização;
 - **História** — memória e raízes do presente;

@@ -28,7 +28,7 @@ website:
           - href: gestao/index.qmd
             text: Gestão de Pessoas
           - href: estrategia/index.qmd
-            text: Planejamento & Estratégia
+            text: Governança, Planejamento & Estratégia
           - href: dados-ia/index.qmd
             text: Dados & IA
           - href: internacional/index.qmd

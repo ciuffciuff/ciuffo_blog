@@ -1,6 +1,6 @@
 ---
-title: "Planejamento & Estratégia"
-subtitle: "Planejamento, processos, governança e indicadores de gestão."
+title: "Governança, Planejamento & Estratégia"
+subtitle: "Governança, planejamento, processos e indicadores de gestão."
 listing:
   sort: "date desc"
   type: grid

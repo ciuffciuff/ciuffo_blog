@@ -132,7 +132,7 @@ ol.trajetoria {
   &::before {                       // linha vertical
     content: "";
     position: absolute;
-    left: 35px; top: 8px; bottom: 8px;
+    left: 47px; top: 8px; bottom: 8px;
     width: 3px;
     background: linear-gradient($primary, $cff-verde);
     border-radius: 2px;
@@ -140,20 +140,21 @@ ol.trajetoria {
 }
 .traj-item {
   display: grid;
-  grid-template-columns: 72px 1fr;
+  grid-template-columns: 96px 1fr;
   gap: 1.25rem;
   margin-bottom: 2rem;
   position: relative;
 }
 .traj-logo {
-  width: 72px; height: 72px;
-  border-radius: 16px;
+  width: 96px; height: 72px;
+  border-radius: 14px;
   background: #fff;                  // logos de terceiros ficam sempre sobre branco
   border: 2px solid $primary;
   display: flex; align-items: center; justify-content: center;
   overflow: hidden;
   position: relative; z-index: 1;
-  img { max-width: 56px; max-height: 56px; object-fit: contain; }
+  img { max-width: 84px; max-height: 58px; object-fit: contain; }
+  &.logo-cheio { background: #060817; border-color: #060817; img { max-width: 94px; max-height: 70px; } }
   .traj-sigla { display: none; }
   &.sem-logo {
     background: $cff-azul;
@@ -184,8 +185,8 @@ ol.trajetoria {
   vertical-align: middle;
 }
 @media (max-width: 576px) {
-  ol.trajetoria::before { left: 23px; }
-  .traj-item { grid-template-columns: 48px 1fr; gap: .8rem; }
-  .traj-logo { width: 48px; height: 48px; border-radius: 12px; img { max-width: 38px; max-height: 38px; } }
+  ol.trajetoria::before { left: 31px; }
+  .traj-item { grid-template-columns: 64px 1fr; gap: .8rem; }
+  .traj-logo { width: 64px; height: 48px; border-radius: 10px; img { max-width: 56px; max-height: 38px; } }
   .traj-logo.sem-logo .traj-sigla { font-size: 1rem; }
 }
