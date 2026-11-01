@@ -66,7 +66,7 @@ mostra um selo com as iniciais da empresa.
   </li>
 
   <li class="traj-item">
-    <div class="traj-logo logo-cheio">
+    <div class="traj-logo">
       <img src="imagens/empresas/plano-consultoria.png" alt="Logo da Plano Consultoria"
            onerror="this.parentNode.classList.add('sem-logo'); this.remove();">
       <span class="traj-sigla">PC</span>
@@ -168,7 +168,25 @@ mostra um selo com as iniciais da empresa.
 
 ## Certificações
 
-- **PMP®** — Project Management Professional, Project Management Institute (PMI), 2011
-- **CBPP®** — Certified Business Process Professional, ABPMP, 2021
+```{=html}
+<div class="certificacoes">
+  <div class="cert">
+    <div class="cert-logo">
+      <img src="imagens/certificacoes/pmp.png" alt="Logo da certificação PMP"
+           onerror="this.parentNode.classList.add('sem-logo'); this.remove();">
+      <span class="cert-sigla">PMP®</span>
+    </div>
+    <div><strong>Project Management Professional (PMP®)</strong><span>Project Management Institute (PMI) · 2011</span></div>
+  </div>
+  <div class="cert">
+    <div class="cert-logo">
+      <img src="imagens/certificacoes/cbpp.png" alt="Logo da certificação CBPP"
+           onerror="this.parentNode.classList.add('sem-logo'); this.remove();">
+      <span class="cert-sigla">CBPP®</span>
+    </div>
+    <div><strong>Certified Business Process Professional (CBPP®)</strong><span>ABPMP · 2021</span></div>
+  </div>
+</div>
+```
 
 A formação acadêmica está na página [Sobre](about.qmd), e os artigos em [Publicações](publicacoes.qmd).

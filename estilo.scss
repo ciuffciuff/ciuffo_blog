@@ -191,3 +191,25 @@ ol.trajetoria {
   .traj-logo { width: 64px; height: 48px; border-radius: 10px; img { max-width: 56px; max-height: 38px; } }
   .traj-logo.sem-logo .traj-sigla { font-size: 1rem; }
 }
+
+// Certificações (Trajetória)
+.certificacoes { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin: 1rem 0 2rem; }
+.cert {
+  display: flex; align-items: center; gap: 1rem;
+  background: mix($body-bg, $primary, 96%);
+  border-radius: 14px; padding: .9rem 1.1rem;
+  strong { display: block; font-size: .98rem; }
+  span { font-size: .88rem; opacity: .8; }
+}
+.cert-logo {
+  flex: 0 0 auto;
+  width: 72px; height: 72px; border-radius: 14px;
+  background: #fff; border: 2px solid $primary;
+  display: flex; align-items: center; justify-content: center; overflow: hidden;
+  img { max-width: 62px; max-height: 62px; object-fit: contain; }
+  .cert-sigla { display: none; }
+  &.sem-logo {
+    background: $cff-verde; border-color: $cff-verde;
+    .cert-sigla { display: block; color: #0d1020; font-family: "Lexend", sans-serif; font-weight: 500; font-size: .95rem; }
+  }
+}
