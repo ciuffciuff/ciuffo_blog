@@ -25,8 +25,8 @@ color:
     verde-texto: "#007a45"
     amarelo: "#ffd200"
     amarelo-forte: "#ffa100"
-    ink: "#0d1020"
-    ink-muted: "#4f5568"
+    ink: "#10298d"          # texto em azul-escuro (contraste 12:1 sobre branco)
+    ink-muted: "#3d4f8f"    # texto secundário em azul acinzentado (7,7:1)
     surface-alt: "#f4f6fb"
   background: "#ffffff"
   foreground: ink
@@ -55,7 +55,7 @@ typography:
   headings:
     family: Lexend
     weight: 500
-    color: ink
+    color: azul
   link:
     color: azul
     decoration: underline
@@ -64,6 +64,6 @@ defaults:
   bootstrap:
     defaults:
       navbar-bg: "#ffffff"
-      navbar-fg: "#0d1020"
+      navbar-fg: "#10298d"
       navbar-hl: "#1c46f3"
       footer-bg: "#f4f6fb"
