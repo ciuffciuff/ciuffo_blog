@@ -66,6 +66,14 @@ Moreira, C. A. C. Dissertação (Mestrado Profissional em Computação Aplicada)
 ## Outros trabalhos
 
 ::: {.callout-note appearance="minimal" icon="false"}
+### 2020
+
+**A internacionalização da BID no fortalecimento da Defesa Nacional: uma parceria setorial da ABIMDE e a Apex-Brasil.**
+Trabalho de conclusão de curso — Especialização em Altos Estudos em Defesa (CAED), Escola Superior de Guerra, 2020. Orientador: Prof. Cel. R1 EB Luiz Otávio Sales Bonfim.
+[Sobre o trabalho](pesquisa/2020-11-17-esg-internacionalizacao-bid-defesa/index.qmd)
+:::
+
+::: {.callout-note appearance="minimal" icon="false"}
 ### 2011
 
 **A atuação da Agência Brasileira de Inteligência no campo das relações internacionais brasileiras.**

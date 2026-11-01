@@ -1,0 +1,31 @@
+---
+title: "A internacionalização da BID no fortalecimento da Defesa Nacional: uma parceria setorial da ABIMDE e a Apex-Brasil"
+description: "O Projeto Brazil Defense (2016–2018), da Apex-Brasil com a ABIMDE, e a internacionalização da Base Industrial de Defesa (ESG, 2020)."
+author: "César Ciuffo"
+date: "2020-11-17"
+categories: [Defesa, Base Industrial de Defesa, Internacionalização, TCC]
+secoes: "pesquisa internacional estrategia"
+tipo-publicacao: "Trabalho de conclusão de curso"
+---
+
+::: {.callout-note appearance="minimal" icon="false"}
+**Trabalho de conclusão de curso**
+
+MOREIRA, C. A. C. *A internacionalização da BID no fortalecimento da Defesa Nacional: uma parceria setorial da ABIMDE e a Apex-Brasil.* Trabalho de Conclusão de Curso (Especialização em Altos Estudos em Defesa – CAED) – Escola Superior de Guerra, Campus Brasília, 2020. Orientador: Prof. Cel. R1 EB Luiz Otávio Sales Bonfim.
+:::
+
+## Resumo
+
+O objetivo deste trabalho foi verificar se as ações de promoção comercial no Projeto Brazil Defense 2016-2018, celebrado entre a Apex-Brasil e a ABIMDE, logrou êxito em internacionalizar as empresas da Base Industrial de Defesa (BID) participantes do Projeto, inserindo-as no mercado externo. Para tanto, fez-se uma revisão bibliográfica de conceitos do trinômio Segurança, Defesa e Desenvolvimento, correlacionando-os com as teorias do comércio internacional e da internacionalização das empresas. Além da pesquisa aplicada, o método utilizado foi um estudo quantitativo para metrificar o sucesso do Projeto Brazil Defense, proporcionando uma perspectiva de como se dá a dinâmica do setor. Ao analisar a atuação da Apex-Brasil e suas medidas de resultado, pôde-se entender o processo de internacionalização das empresas brasileiras da BID. O estudo permitiu ainda avaliar a competitividade do Brasil e de seu setor de armas, e esclarecer a dinâmica do mercado. Ao destacar a necessidade da sustentabilidade interna e da projeção internacional da BID, como suporte para o Desenvolvimento e a Defesa Nacional, o estudo concluiu que o Projeto foi um sucesso, mas que é necessário o Brasil implementar políticas públicas mais concertadas e ações de promoção comercial para dinamizar esse estratégico setor para o País.
+
+## Abstract
+
+::: {lang=en}
+The objective of this work was to verify if the commercial promotion actions in the Brazil Defense Project 2016-2018, celebrated between Apex-Brasil and ABIMDE, succeeded in internationalizing the companies of the Industrial Defense Base (IDB) participating in the Project, inserting them in foreign markets. To this end, a bibliographic review of the concepts of the trinomial Security, Defense and Development was made, correlating them with theories of international trade and the internationalization of companies. In addition to applied research, the method used was a quantitative study to measure the success of the Brazil Defense Project, providing a perspective on how the sector's dynamics take place. By analyzing the performance of Apex-Brasil and its result measures, it was possible to understand the internationalization process of Brazilian IDB companies. The study also made it possible to assess the competitiveness of Brazil and its arms sector, and to clarify the market dynamics. In highlighting the need for internal sustainability and the international projection of the IDB, as support for Development and National Defense, the study concluded that the Project was successful, but that Brazil needs to implement more concerted public policies and trade promotion actions to boost this strategic sector for the country.
+:::
+
+
+**Palavras-chave:** Defesa. Desenvolvimento. Base Industrial de Defesa. Internacionalização.
+
+[Baixar o trabalho completo (PDF, 33 páginas)](tcc-esg-caed-2020.pdf){.btn .btn-primary}
+[Baixar a apresentação (PDF, 12 slides)](apresentacao-tcc-esg-caed-2020.pdf){.btn .btn-outline-primary}

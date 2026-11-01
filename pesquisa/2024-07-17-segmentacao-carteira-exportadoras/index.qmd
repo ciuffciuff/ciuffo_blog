@@ -24,3 +24,4 @@ Este estudo realiza a identificação do perfil das empresas brasileiras exporta
 **Palavras-chave:** Apex-Brasil, Ciência de Dados, Empresas Brasileiras, Exportadoras, Importadoras, Análise de Componentes Principais, Agrupamento, Método k-Médias, Mineração de Regras de Associação
 
 [Ler o trabalho completo](https://doi.org/10.37885/240717123){.btn .btn-primary}
+[Baixar o artigo original do TCC no ITA (PDF, 10 páginas, 2023)](artigo-tcc-ita-grupo7-2023.pdf){.btn .btn-outline-primary}
