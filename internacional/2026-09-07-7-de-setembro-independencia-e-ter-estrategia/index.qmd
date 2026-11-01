@@ -3,8 +3,11 @@ title: "7 de setembro: independência é ter estratégia — uma proposta de int
 description: "Uma proposta de internacionalização como política pública para o Brasil, organizada como mapa estratégico — com os números na mesa."
 author: "César Ciuffo"
 date: "2026-09-07"
+image: capa.png
 categories: [Internacionalização, Políticas Públicas, Comércio Exterior, Radar]
 ---
+
+![](capa.png){fig-alt="Capa: 7 de setembro, proposta — Independência é ter estratégia. Uma proposta de internacionalização para gerar emprego e renda no Brasil."}
 
 Duzentos e quatro anos depois do grito do Ipiranga, vale perguntar: do que, exatamente, um país precisa ser independente no século XXI?
 
