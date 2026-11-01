@@ -15,6 +15,7 @@ website:
   favicon: imagens/favicon.svg
   open-graph: true
   search: true
+  draft-mode: gone   # rascunhos (draft: true) não são publicados
   navbar:
     title: "CFF"
     logo: imagens/logo.svg

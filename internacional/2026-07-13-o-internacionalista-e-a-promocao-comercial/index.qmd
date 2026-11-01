@@ -3,8 +3,11 @@ title: "O internacionalista e a promoção comercial: uma carreira que o Brasil 
 description: "Relações Internacionais, promoção comercial e atração de investimentos: uma carreira estratégica e pouco conhecida."
 author: "César Ciuffo"
 date: "2026-07-13"
+image: capa.png
 categories: [Relações Internacionais, Promoção Comercial, Carreira, Radar]
 ---
+
+![](capa.png){fig-alt="Capa: O internacionalista e a promoção comercial — uma carreira que o Brasil precisa conhecer melhor."}
 
 Quando falamos em Relações Internacionais, a primeira imagem que vem à mente costuma ser a diplomacia — o Itamaraty, as embaixadas, os organismos multilaterais. Mas há um campo de atuação tão estratégico quanto, e muitas vezes menos visível: a promoção comercial e a atração de investimentos. É sobre esse ponto de contato que quero conversar com os estudantes e profissionais de Relações Internacionais — os internacionalistas — e, ao final, fazer um convite.
 

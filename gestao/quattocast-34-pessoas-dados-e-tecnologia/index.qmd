@@ -1,0 +1,21 @@
+---
+title: "QuattoCast #34: pessoas, dados e tecnologia unidos"
+description: "Minha participação no QuattoCast, da Quatto, sobre People Analytics e IA na gestão pública."
+author: "César Ciuffo"
+date: "2026-11-01"   # TODO: confirmar a data de publicação do episódio
+draft: true          # rascunho: só aparece no site depois de confirmar a data
+image: quattocast.png
+categories: [Gestão de Pessoas, People Analytics, Inteligência Artificial, Entrevistas]
+---
+
+Participei do episódio **#34 do QuattoCast**, o podcast da Quatto, para conversar sobre como **pessoas, dados e tecnologia** podem andar juntos.
+
+{{< video https://www.youtube.com/watch?v=nDF9nTuXX9I >}}
+
+A conversa também virou destaque na **QuattoNews**: *Como People Analytics e IA transformam a gestão pública com impacto real.* A mensagem central é que a verdadeira maturidade em IA não está na tecnologia, mas na capacidade de gerar valor real para as pessoas.
+
+::: {layout-ncol=2}
+![](quattocast.png){fig-alt="Arte de divulgação do QuattoCast 34 com a foto de César Ciuffo, Apex-Brasil, Especialista de Promoção de Exportações e Atração de Investimentos: Pessoas, dados e tecnologia unidos."}
+
+![](quattonews.png){fig-alt="QuattoNews: Como People Analytics e IA transformam a gestão pública com impacto real. César Ciuffo destaca que a verdadeira maturidade em IA não está na tecnologia, mas na capacidade de gerar valor real para as pessoas."}
+:::

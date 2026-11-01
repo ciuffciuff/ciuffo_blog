@@ -3,8 +3,11 @@ title: "Sobreviveremos à IA? O que a revolução das telecomunicações me ensi
 description: "O que a revolução das telecomunicações me ensinou sobre preparar os jovens para a era da inteligência artificial."
 author: "César Ciuffo"
 date: "2026-06-28"
+image: capa.png
 categories: [Inteligência Artificial, Carreira, Aprendizado]
 ---
+
+![](capa.png){fig-alt="Capa: Sobreviveremos à IA? Da revolução das telecomunicações à era da Inteligência Artificial — e como preparar os jovens. Uma onda liga uma torre de telecom a uma rede neural: o mesmo sinal, uma nova era."}
 
 Há uma pergunta que ouço com frequência, quase sempre carregada de ansiedade: “Vamos sobreviver à Inteligência Artificial?”
 

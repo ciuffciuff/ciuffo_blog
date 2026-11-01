@@ -3,8 +3,11 @@ title: "No Dia dos Pais / On Father’s Day"
 description: "Sobre o exemplo que recebemos e a responsabilidade de transmiti-lo. Texto em português e inglês."
 author: "César Ciuffo"
 date: "2026-08-09"
+image: capa.png
 categories: [Liderança, Reflexões, Radar]
 ---
+
+![](capa.png){fig-alt="Capa: Feliz Dia dos Pais / Happy Father's Day — a quem nos mostra o caminho."}
 
 ***Sobre o exemplo que recebemos e a responsabilidade de transmiti-lo.***
 

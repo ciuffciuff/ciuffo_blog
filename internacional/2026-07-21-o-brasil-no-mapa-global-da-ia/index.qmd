@@ -3,8 +3,11 @@ title: "O Brasil ainda pode escolher seu lugar no mapa global da IA"
 description: "A próxima década da IA não será decidida só por quem cria os modelos, mas por quem souber onde se posicionar na cadeia de valor."
 author: "César Ciuffo"
 date: "2026-07-21"
+image: capa.png
 categories: [Inteligência Artificial, Estratégia, Políticas Públicas, Radar]
 ---
+
+![](capa.png){fig-alt="Capa: o Brasil conectado por rotas a pontos de um globo estilizado."}
 
 *Por que a próxima década de inteligência artificial não será decidida apenas por quem cria os modelos — mas por quem souber onde se posicionar na cadeia de valor.*
 

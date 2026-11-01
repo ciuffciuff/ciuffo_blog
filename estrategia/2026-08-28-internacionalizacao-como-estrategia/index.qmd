@@ -3,8 +3,11 @@ title: "Internacionalização como Estratégia: da Exportação Oportunista à C
 description: "Da exportação oportunista à competitividade organizacional: por que a internacionalização precisa ser uma escolha deliberada."
 author: "César Ciuffo"
 date: "2026-08-28"
+image: capa.png
 categories: [Internacionalização, Estratégia, Exportação, Radar]
 ---
+
+![](capa.png){fig-alt="Capa: Internacionalização como estratégia — da exportação oportunista à competitividade organizacional, e a fronteira dos serviços."}
 
 ### Resumo
 
