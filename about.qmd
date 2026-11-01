@@ -1,7 +1,8 @@
 ---
 title: "César Ciuffo"
 subtitle: "People Analytics · Dados · Estratégia"
-image: imagens/logo.svg
+image: imagens/foto.jpg
+image-alt: "Foto de César Ciuffo"
 toc: false
 about:
   template: trestles
