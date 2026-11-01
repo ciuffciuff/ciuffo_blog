@@ -46,6 +46,7 @@ mostra um selo com as iniciais da empresa.
       <ul>
         <li>Liderança do <strong>Planejamento Estratégico 2020–2023</strong>, gestão dos indicadores de resultado (KPIs) e suporte ao Contrato de Gestão.</li>
         <li>Consultoria interna em estratégia, projetos (PMO), processos e riscos; benchmarking com agências de promoção comercial e atração de investimentos.</li>
+        <li>Certificação <strong>NBR ISO 9001</strong> da Agência (2022), no escopo de promoção de exportação e de internacionalização por meio do atendimento setorial direto às empresas brasileiras em feiras internacionais.</li>
       </ul>
 
       <h3>PMO e escritório de processos</h3>
