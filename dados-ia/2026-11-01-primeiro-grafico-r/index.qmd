@@ -1,0 +1,33 @@
+---
+title: "Meu primeiro gráfico em R dentro do blog"
+description: "Um exemplo de como escrever um post com código R que roda e gera o gráfico automaticamente."
+date: "2026-11-01"
+categories: [R, Tutorial]
+---
+
+Uma das vantagens de escrever o blog com **Quarto** é que o código R roda junto com o texto. O gráfico abaixo não é uma imagem colada: ele é gerado pelo próprio código quando o site é publicado.
+
+Usei a base `mtcars`, que já vem com o R:
+
+```{r}
+#| label: fig-consumo
+#| fig-cap: "Consumo (milhas por galão) em função do peso do carro"
+#| code-fold: show
+
+plot(
+  mtcars$wt, mtcars$mpg,
+  pch = 19, col = "#1C46F3",
+  xlab = "Peso (mil libras)", ylab = "Milhas por galão",
+  main = "Carros mais pesados consomem mais"
+)
+abline(lm(mpg ~ wt, data = mtcars), col = "#F2A900", lwd = 3)
+```
+
+E um resumo rápido do modelo:
+
+```{r}
+modelo <- lm(mpg ~ wt, data = mtcars)
+round(coef(modelo), 2)
+```
+
+Cada mil libras a mais de peso reduz, em média, cerca de `r abs(round(coef(modelo)[2], 1))` milhas por galão.

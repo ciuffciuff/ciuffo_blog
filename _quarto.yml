@@ -1,0 +1,70 @@
+project:
+  type: website
+  output-dir: _site
+
+execute:
+  freeze: auto   # posts com código R só são reprocessados quando você os altera
+
+lang: pt
+
+website:
+  title: "Conscience Fast Forward"
+  description: "CFF — ideias sobre pessoas, dados, estratégia, história e o Brasil no mundo. Por César Ciuffo."
+  site-url: https://ciuffciuff.github.io/ciuffo_blog
+  repo-url: https://github.com/ciuffciuff/ciuffo_blog
+  favicon: imagens/favicon.svg
+  open-graph: true
+  search: true
+  navbar:
+    title: "CFF"
+    logo: imagens/logo.svg
+    logo-alt: "Logotipo CFF"
+    left:
+      - text: Linhas
+        menu:
+          - href: pesquisa/index.qmd
+            text: Pesquisa
+          - href: gestao/index.qmd
+            text: Gestão de Pessoas
+          - href: estrategia/index.qmd
+            text: Planejamento & Estratégia
+          - href: dados-ia/index.qmd
+            text: Dados & IA
+          - href: internacional/index.qmd
+            text: Brasil no Mundo
+          - href: historia/index.qmd
+            text: História
+          - href: cronicas/index.qmd
+            text: Crônicas
+      - href: publicacoes.qmd
+        text: Publicações
+      - href: about.qmd
+        text: Sobre
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/cesarciuffo/
+        aria-label: LinkedIn
+      - icon: github
+        href: https://github.com/ciuffciuff
+        aria-label: GitHub
+      - icon: rss
+        href: index.xml
+        aria-label: RSS
+  page-footer:
+    left: "© 2026 César Ciuffo · **CFF — Conscience Fast Forward**"
+    center: "As opiniões aqui publicadas são pessoais."
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/cesarciuffo/
+      - icon: github
+        href: https://github.com/ciuffciuff
+
+format:
+  html:
+    theme:
+      light: [cosmo, estilo.scss]
+    toc: true
+    toc-title: "Nesta página"
+    code-copy: true
+    smooth-scroll: true
+    link-external-newwindow: true

@@ -1,0 +1,20 @@
+---
+title: "People Analytics com privacidade: a pergunta que guia o meu doutorado"
+description: "Como analisar dados de pessoas sem expor as pessoas? Uma introdução à pesquisa com criptografia homomórfica."
+date: "2026-11-01"
+categories: [Doutorado, Privacidade, People Analytics]
+---
+
+Áreas de Gestão de Pessoas guardam alguns dos dados mais sensíveis de uma organização: saúde, desempenho, remuneração, afastamentos. Ao mesmo tempo, esses dados são justamente os que mais podem ajudar a tomar boas decisões.
+
+A pergunta que guia o meu doutorado no PPCA/UnB é simples de formular e difícil de responder:
+
+> **É possível fazer People Analytics sem precisar enxergar os dados de ninguém?**
+
+## Criptografia homomórfica, em uma frase
+
+A criptografia homomórfica permite fazer contas com dados **ainda criptografados**. O resultado, quando descriptografado, é o mesmo que se as contas tivessem sido feitas com os dados abertos. Na minha pesquisa uso o esquema **CKKS**, que trabalha com números reais e é adequado para estatísticas e modelos de aprendizado de máquina.
+
+## Nos próximos textos
+
+Vou contar aqui, em linguagem acessível, como essa ideia se conecta à LGPD, ao *Privacy by Design* e aos resultados que já publiquei sobre absenteísmo e segmentação de colaboradores — veja a página de [Publicações](../../publicacoes.qmd).

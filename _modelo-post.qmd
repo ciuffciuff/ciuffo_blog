@@ -1,0 +1,28 @@
+---
+# ============================================================
+# MODELO DE POST — copie este arquivo para criar um novo texto
+# 1. Crie uma pasta dentro da seção:  gestao/2026-11-15-nome-do-post/
+# 2. Copie este arquivo para dentro dela com o nome  index.qmd
+# 3. Edite o cabeçalho abaixo e escreva o texto
+# (Arquivos que começam com "_" não aparecem no site.)
+# ============================================================
+title: "Título do post"
+description: "Resumo de uma ou duas linhas que aparece no cartão da listagem."
+date: "2026-11-15"
+categories: [Tema 1, Tema 2]
+# image: capa.jpg        # opcional: coloque uma imagem na pasta do post
+# draft: true            # opcional: true = não publica ainda
+---
+
+Primeiro parágrafo do texto.
+
+## Um subtítulo
+
+Texto com **negrito**, *itálico* e um [link](https://www.linkedin.com/in/cesarciuffo/).
+
+> Uma citação em destaque.
+
+```{r}
+# Código R opcional — roda e mostra o resultado no post
+summary(cars)
+```

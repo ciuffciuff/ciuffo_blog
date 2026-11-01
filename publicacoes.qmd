@@ -1,0 +1,39 @@
+---
+title: "Publicações"
+subtitle: "Artigos científicos e capítulos de livro"
+title-block-banner: true
+toc: false
+---
+
+Perfil completo no [ORCID](https://orcid.org/0009-0001-0248-6791). Nome em citações: **César Antônio Ciuffo Moreira**.
+
+## Artigos em periódicos
+
+::: {.callout-note appearance="minimal" icon="false"}
+### 2026
+
+**Modelo Preditivo de Absenteísmo e Clusterização de Perfis Comportamentais.**
+Ciuffo Moreira, C. A.; Lopes, B.; Cella, P.
+*Revista de Ciência da Computação (ReCiC/UESB)*, v. 8, n. 1, e19583, 2026.
+DOI: [10.22481/recic.v8i1.19583](https://doi.org/10.22481/recic.v8i1.19583)
+
+**Employee segmentation using clustering techniques: a case study at ApexBrasil.**
+Ciuffo Moreira, C. A.
+*Revista Gestão em Análise (ReGeA)*, v. 15, n. 1, e6206, 2026.
+DOI: [10.12662/2359-618xregea.v15i1.6206.pe6206.2026](https://doi.org/10.12662/2359-618xregea.v15i1.6206.pe6206.2026)
+:::
+
+::: {.callout-note appearance="minimal" icon="false"}
+### 2025
+
+**Temporal Projections for Strategic Planning in Human Resources.**
+Ciuffo Moreira, C. A.
+*Revista Gestão & Tecnologia*, v. 25, n. 5, p. 10–53, 2025.
+DOI: [10.20397/2177-6652/2025.v25i5.3171](https://doi.org/10.20397/2177-6652/2025.v25i5.3171)
+:::
+
+## Capítulos de livro
+
+- Capítulo no livro *Projetos de Pesquisa em Data Science*.
+
+<!-- Para incluir uma nova publicação, copie um dos blocos acima e edite. -->

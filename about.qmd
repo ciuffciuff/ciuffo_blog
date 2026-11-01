@@ -1,0 +1,32 @@
+---
+title: "César Ciuffo"
+subtitle: "People Analytics · Dados · Estratégia"
+image: imagens/logo.svg
+toc: false
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 12em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/cesarciuffo/
+    - icon: github
+      text: GitHub
+      href: https://github.com/ciuffciuff
+    - icon: mortarboard
+      text: ORCID
+      href: https://orcid.org/0009-0001-0248-6791
+---
+
+Sou especialista na **Apex-Brasil** (Agência Brasileira de Promoção de Exportações e Investimentos), onde atuo há mais de 14 anos em gestão estratégica, processos, tecnologia e, hoje, em **Gestão de Pessoas** — com foco em People Analytics, integração de sistemas de RH, governança de dados e LGPD.
+
+Sou mestre em Computação Aplicada (Ciência de Dados) e doutorando no **PPCA/UnB**, pesquisando *People Analytics* com **criptografia homomórfica** (esquema CKKS): como analisar dados de pessoas sem expor quem está por trás deles.
+
+Antes da Apex-Brasil, trabalhei no setor de telecomunicações (Tele Centro Oeste Celular, Brasil Telecom e Vivo). Moro em Brasília.
+
+## Sobre o CFF
+
+**Conscience Fast Forward** é o meu espaço para pensar em voz alta: avançar rápido, mas com consciência. Aqui escrevo sobre pesquisa, gestão, estratégia, dados, comércio exterior, história e, de vez em quando, sobre a vida.
+
+> As opiniões publicadas neste site são pessoais e não representam a posição oficial de nenhuma instituição.

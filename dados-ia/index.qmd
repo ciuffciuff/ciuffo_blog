@@ -1,0 +1,16 @@
+---
+title: "Dados & IA"
+subtitle: "R, ciência de dados, inteligência artificial, LGPD e privacidade — com tutoriais práticos."
+listing:
+  sort: "date desc"
+  type: grid
+  grid-columns: 3
+  categories: true
+  feed: true
+  sort-ui: true
+  filter-ui: true
+  fields: [image, date, title, description, categories, reading-time]
+  date-format: "DD/MM/YYYY"
+page-layout: full
+toc: false
+---

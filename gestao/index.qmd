@@ -1,0 +1,16 @@
+---
+title: "Gestão de Pessoas"
+subtitle: "People Analytics, cultura, experiência do colaborador e o dia a dia do RH."
+listing:
+  sort: "date desc"
+  type: grid
+  grid-columns: 3
+  categories: true
+  feed: true
+  sort-ui: true
+  filter-ui: true
+  fields: [image, date, title, description, categories, reading-time]
+  date-format: "DD/MM/YYYY"
+page-layout: full
+toc: false
+---

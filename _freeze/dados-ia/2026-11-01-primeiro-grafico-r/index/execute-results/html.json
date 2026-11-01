@@ -1,0 +1,17 @@
+{
+  "hash": "8f44eb9ef5554cb9bdfd97eab40663c9",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Meu primeiro gráfico em R dentro do blog\"\ndescription: \"Um exemplo de como escrever um post com código R que roda e gera o gráfico automaticamente.\"\ndate: \"2026-11-01\"\ncategories: [R, Tutorial]\n---\n\n\n\n\nUma das vantagens de escrever o blog com **Quarto** é que o código R roda junto com o texto. O gráfico abaixo não é uma imagem colada: ele é gerado pelo próprio código quando o site é publicado.\n\nUsei a base `mtcars`, que já vem com o R:\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code  code-fold=\"show\"}\nplot(\n  mtcars$wt, mtcars$mpg,\n  pch = 19, col = \"#1C46F3\",\n  xlab = \"Peso (mil libras)\", ylab = \"Milhas por galão\",\n  main = \"Carros mais pesados consomem mais\"\n)\nabline(lm(mpg ~ wt, data = mtcars), col = \"#F2A900\", lwd = 3)\n```\n\n::: {.cell-output-display}\n![Consumo (milhas por galão) em função do peso do carro](index_files/figure-html/fig-consumo-1.png){#fig-consumo width=672}\n:::\n:::\n\n\n\n\nE um resumo rápido do modelo:\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nmodelo <- lm(mpg ~ wt, data = mtcars)\nround(coef(modelo), 2)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n(Intercept)          wt \n      37.29       -5.34 \n```\n\n\n:::\n:::\n\n\n\n\nCada mil libras a mais de peso reduz, em média, cerca de 5.3 milhas por galão.\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,128 @@
+/*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Merriweather:wght@400;700&display=swap');
+
+// ---- Paleta CFF (inspirada na ApexBrasil) ----
+$cff-azul:        #1C46F3;   // azul principal
+$cff-azul-escuro: #10298D;   // azul profundo
+$cff-fundo-suave: #F4F6FC;   // fundo de caixas e cartões
+$cff-ambar:       #F2A900;   // destaque (etiquetas, detalhes)
+
+$primary:    $cff-azul;
+$link-color: $cff-azul;
+$body-color: #1E2433;
+
+$navbar-bg:  $cff-azul-escuro;
+$navbar-fg:  #FFFFFF;
+$navbar-hl:  $cff-ambar;
+$footer-bg:  $cff-azul-escuro;
+$footer-fg:  #DDE3FF;
+
+// ---- Tipografia ----
+$font-family-sans-serif: "Inter", system-ui, sans-serif;
+$headings-font-family:   "Merriweather", Georgia, serif;
+$headings-color:         $cff-azul-escuro;
+$font-size-root:         17px;
+$line-height-base:       1.7;
+
+/*-- scss:rules --*/
+
+// Menu superior
+.navbar { box-shadow: 0 2px 10px rgba(16, 41, 141, .25); }
+.navbar-title { font-family: $headings-font-family; font-weight: 700; letter-spacing: .04em; }
+.navbar .dropdown-menu { border-top: 3px solid $cff-ambar; }
+
+// Faixa de título em degradê
+.quarto-title-banner {
+  background: linear-gradient(120deg, $cff-azul-escuro 0%, $cff-azul 100%);
+  color: #fff;
+  .quarto-title .title, .subtitle, .description { color: #fff; }
+  .quarto-category {
+    color: #fff !important;
+    background: rgba(255,255,255,.12);
+    border-color: $cff-ambar !important;
+  }
+}
+
+// Etiquetas (categorias)
+.quarto-category, .listing-category {
+  border: 1px solid $cff-ambar !important;
+  background: rgba($cff-ambar, .12);
+  color: $body-color !important;
+  border-radius: 999px;
+  padding: .1rem .6rem;
+}
+
+// Cartões das listagens
+.quarto-grid-item {
+  border: none;
+  border-radius: 12px;
+  background: $cff-fundo-suave;
+  transition: transform .15s ease, box-shadow .15s ease;
+  overflow: hidden;
+  &:hover { transform: translateY(-3px); box-shadow: 0 8px 22px rgba(16, 41, 141, .15); }
+  .card-title { font-family: $headings-font-family; color: $cff-azul-escuro; }
+}
+.quarto-post .thumbnail img { border-radius: 10px; }
+
+// Citações
+blockquote {
+  background: $cff-fundo-suave;
+  border-left: 4px solid $cff-azul;
+  padding: .8rem 1.2rem;
+  border-radius: 0 8px 8px 0;
+  font-style: italic;
+}
+
+// Página inicial: cartões das linhas
+.linhas {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2.5rem;
+}
+.linha {
+  display: block;
+  padding: 1.1rem 1.2rem;
+  border-radius: 12px;
+  background: $cff-fundo-suave;
+  border-top: 4px solid $cff-azul;
+  text-decoration: none;
+  color: $body-color;
+  transition: transform .15s ease, box-shadow .15s ease;
+  &:hover { transform: translateY(-3px); box-shadow: 0 8px 22px rgba(16, 41, 141, .15); color: $body-color; }
+  strong { display: block; font-family: $headings-font-family; color: $cff-azul-escuro; margin-bottom: .3rem; }
+  span { font-size: .9rem; opacity: .85; }
+}
+
+// Destaque de abertura da página inicial
+.hero {
+  padding: 2.5rem 2rem;
+  margin: 1rem 0 1rem;
+  border-radius: 16px;
+  color: #fff;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(120deg, $cff-azul-escuro, $cff-azul);
+  &::after {               // detalhe geométrico decorativo
+    content: "";
+    position: absolute; right: -40px; top: -40px;
+    width: 220px; height: 220px;
+    border: 28px solid rgba($cff-ambar, .85);
+    border-radius: 50%;
+  }
+  &::before {
+    content: "";
+    position: absolute; right: 120px; bottom: -60px;
+    width: 140px; height: 140px;
+    background: rgba(255,255,255,.12);
+    transform: rotate(45deg);
+  }
+  > * { position: relative; z-index: 1; }
+  h1 { color: #fff; margin-top: 0; font-size: 2.2rem; }
+  p { font-size: 1.1rem; margin-bottom: 0; opacity: .95; }
+  .sigla { color: $cff-ambar; font-weight: 700; letter-spacing: .1em; }
+}
+
+// Rodapé
+.nav-footer { font-size: .9rem; }
+.nav-footer a { color: #fff; }

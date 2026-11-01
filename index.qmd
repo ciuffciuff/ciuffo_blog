@@ -1,0 +1,45 @@
+---
+pagetitle: "CFF — Conscience Fast Forward"
+listing:
+  id: recentes
+  contents:
+    - "*/*/index.qmd"
+  sort: "date desc"
+  type: grid
+  grid-columns: 3
+  max-items: 9
+  categories: false
+  fields: [image, date, title, description, reading-time]
+  date-format: "DD/MM/YYYY"
+  feed: true
+page-layout: full
+title-block-style: none
+toc: false
+---
+
+::: hero
+[CFF]{.sigla}
+
+# Conscience Fast Forward
+
+Ideias sobre pessoas, dados, estratégia, história e o Brasil no mundo — escritas com calma, para avançar com consciência.
+:::
+
+## Linhas de publicação
+
+```{=html}
+<div class="linhas">
+  <a class="linha" href="pesquisa/index.html"><strong>Pesquisa</strong><span>Doutorado, artigos e privacidade em People Analytics</span></a>
+  <a class="linha" href="gestao/index.html"><strong>Gestão de Pessoas</strong><span>People Analytics, cultura e RH</span></a>
+  <a class="linha" href="estrategia/index.html"><strong>Planejamento &amp; Estratégia</strong><span>Processos, governança e indicadores</span></a>
+  <a class="linha" href="dados-ia/index.html"><strong>Dados &amp; IA</strong><span>R, IA, LGPD e tutoriais</span></a>
+  <a class="linha" href="internacional/index.html"><strong>Brasil no Mundo</strong><span>Comércio exterior e internacionalização</span></a>
+  <a class="linha" href="historia/index.html"><strong>História</strong><span>Memória e raízes do presente</span></a>
+  <a class="linha" href="cronicas/index.html"><strong>Crônicas</strong><span>Textos pessoais e reflexões</span></a>
+</div>
+```
+
+## Publicações recentes
+
+::: {#recentes}
+:::

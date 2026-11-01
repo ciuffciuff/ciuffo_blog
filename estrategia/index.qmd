@@ -1,0 +1,16 @@
+---
+title: "Planejamento & Estratégia"
+subtitle: "Planejamento, processos, governança e indicadores de gestão."
+listing:
+  sort: "date desc"
+  type: grid
+  grid-columns: 3
+  categories: true
+  feed: true
+  sort-ui: true
+  filter-ui: true
+  fields: [image, date, title, description, categories, reading-time]
+  date-format: "DD/MM/YYYY"
+page-layout: full
+toc: false
+---

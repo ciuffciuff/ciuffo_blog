@@ -1,0 +1,24 @@
+---
+title: "Bem-vindo ao CFF"
+description: "Por que criei o Conscience Fast Forward e o que você vai encontrar por aqui."
+date: "2026-11-01"
+categories: [CFF, Escrita]
+---
+
+Este é o primeiro texto do **Conscience Fast Forward**, o CFF.
+
+O nome junta duas ideias que, à primeira vista, brigam entre si: *avançar rápido* e *ter consciência*. Vivemos acelerados — pela tecnologia, pelos prazos, pelas mudanças no trabalho e no mundo. O CFF nasce da vontade de acompanhar esse ritmo sem perder a reflexão.
+
+## O que vem por aí
+
+O site está organizado em linhas de publicação:
+
+- **Pesquisa** — o doutorado, artigos e o que aprendo pelo caminho;
+- **Gestão de Pessoas** — People Analytics, cultura e o dia a dia do RH;
+- **Planejamento & Estratégia** — processos, governança e indicadores;
+- **Dados & IA** — R, inteligência artificial e privacidade, com tutoriais;
+- **Brasil no Mundo** — comércio exterior e internacionalização;
+- **História** — memória e raízes do presente;
+- **Crônicas** — como esta, para o que não cabe nas outras gavetas.
+
+Seja bem-vindo. Comentários e sugestões são sempre bem-vindos pelo [LinkedIn](https://www.linkedin.com/in/cesarciuffo/).

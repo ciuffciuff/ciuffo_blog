@@ -1,0 +1,4 @@
+# Valores padrão para todos os posts desta seção
+author: "César Ciuffo"
+title-block-banner: true
+image: /imagens/capa-pesquisa.svg   # capa padrão (cada post pode trocar)
