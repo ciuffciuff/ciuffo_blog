@@ -203,10 +203,10 @@ ol.trajetoria {
 }
 .cert-logo {
   flex: 0 0 auto;
-  width: 72px; height: 72px; border-radius: 14px;
+  width: 96px; height: 96px; border-radius: 16px;
   background: #fff; border: 2px solid $primary;
   display: flex; align-items: center; justify-content: center; overflow: hidden;
-  img { max-width: 62px; max-height: 62px; object-fit: contain; }
+  img { max-width: 88px; max-height: 88px; object-fit: contain; }
   .cert-sigla { display: none; }
   &.sem-logo {
     background: $cff-verde; border-color: $cff-verde;
