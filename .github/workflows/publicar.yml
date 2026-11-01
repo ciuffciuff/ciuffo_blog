@@ -1,5 +1,6 @@
 # Publica o site automaticamente no GitHub Pages
 # sempre que houver alteração na branch "main".
+# As actions são fixadas por SHA completo (exigência de segurança da conta).
 name: Publicar site
 
 on:
@@ -21,10 +22,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Baixar o repositório
-        uses: actions/checkout@v4
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
       - name: Instalar o R
-        uses: r-lib/actions/setup-r@v2
+        uses: r-lib/actions/setup-r@f9a764fea8d5c63df6ef9a5c7795bf7deb5d7e05 # v2.14.0
         with:
           use-public-rspm: true
 
@@ -32,13 +33,13 @@ jobs:
         run: Rscript -e 'install.packages(c("knitr", "rmarkdown"))'
 
       - name: Instalar o Quarto
-        uses: quarto-dev/quarto-actions/setup@v2
+        uses: quarto-dev/quarto-actions/setup@8a96df13519ee81fd526f2dfca5962811136661b # v2.2.0
 
       - name: Gerar o site
-        uses: quarto-dev/quarto-actions/render@v2
+        uses: quarto-dev/quarto-actions/render@8a96df13519ee81fd526f2dfca5962811136661b # v2.2.0
 
       - name: Preparar arquivos para o GitHub Pages
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
         with:
           path: _site
 
@@ -51,4 +52,4 @@ jobs:
     steps:
       - name: Publicar no GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@368f82528645a54fb793d4d04e342629a3f51346 # v5.0.1
