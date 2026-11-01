@@ -1,6 +1,7 @@
 ---
 title: "Bem-vindo ao CFF"
 description: "Por que criei o Conscience Fast Forward e o que você vai encontrar por aqui."
+author: "César Ciuffo"
 date: "2026-11-01"
 categories: [CFF, Escrita]
 ---

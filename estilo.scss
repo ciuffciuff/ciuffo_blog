@@ -44,6 +44,7 @@ $line-height-base:       1.7;
 }
 
 // Etiquetas (categorias)
+.quarto-title-banner .quarto-categories .quarto-category { color: #fff !important; opacity: 1; }
 .quarto-category, .listing-category {
   border: 1px solid $cff-ambar !important;
   background: rgba($cff-ambar, .12);

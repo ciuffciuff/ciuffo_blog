@@ -1,6 +1,7 @@
 ---
 title: "Meu primeiro gráfico em R dentro do blog"
 description: "Um exemplo de como escrever um post com código R que roda e gera o gráfico automaticamente."
+author: "César Ciuffo"
 date: "2026-11-01"
 categories: [R, Tutorial]
 ---

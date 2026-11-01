@@ -1,0 +1,45 @@
+---
+title: "O Brasil ainda pode escolher seu lugar no mapa global da IA"
+description: "A próxima década da IA não será decidida só por quem cria os modelos, mas por quem souber onde se posicionar na cadeia de valor."
+author: "César Ciuffo"
+date: "2026-07-21"
+categories: [Inteligência Artificial, Estratégia, Políticas Públicas, Radar]
+---
+
+*Por que a próxima década de inteligência artificial não será decidida apenas por quem cria os modelos — mas por quem souber onde se posicionar na cadeia de valor.*
+
+Há um mapa sendo desenhado agora, e poucos países estão prestando atenção enquanto a tinta ainda está fresca. É o mapa de onde a inteligência artificial vai morar: onde ficam os data centers, de onde vem a energia que os alimenta, quem detém os chips, quem forma os talentos e quem escreve as regras. Uma vez que esse mapa endurecer, redesenhá-lo custará caro. E os números mostram que ele está endurecendo rápido.
+
+Hoje, cerca de **77% da capacidade global de data centers está em países de alta renda**. Três provedores de nuvem concentram **74% do mercado mundial**, e uma única fabricante responde por **90% das GPUs** que treinam os grandes modelos. Só as cinco maiores empresas de tecnologia dos Estados Unidos investiram **US\$ 400 bilhões em capital em 2025**, com projeção de **US\$ 660 bilhões em 2026** — mais do que o dobro do investimento em IA de todos os outros países da OCDE somados. Quando poucos atores controlam processamento, chips e infraestrutura, a concentração deixa de ser um acidente e passa a ser a estrutura do mercado.
+
+Para um gestor público brasileiro, é tentador ler esses dados como uma sentença: chegamos tarde, a corrida dos modelos já tem dono. **Mas essa é a leitura errada** — e é aqui que precisamos ser rigorosos sobre o que a corrida realmente é.
+
+### A camada dos modelos não é a única camada
+
+A cadeia de valor da IA tem muitos andares. Há quem projete os chips, quem os fabrica, quem constrói os data centers, quem treina os modelos de fundação, quem os adapta a contextos específicos, quem constrói as aplicações e quem os coloca para gerar valor em setores reais — saúde, agricultura, comércio exterior, serviços públicos. Competir no andar mais alto e mais capital-intensivo — treinar modelos de fronteira do zero — provavelmente não é onde o Brasil tem vantagem. Mas **confundir "não vamos construir o próximo modelo de fronteira" com "não temos lugar na IA" é um erro estratégico caro.**
+
+Dois movimentos recentes reforçam isso. Primeiro, o **preço da inteligência despencou**: o custo de acesso aos modelos caiu cerca de **80%** em pouco tempo. O que era proibitivo virou commodity acessível — o que **desloca a vantagem competitiva da criação do modelo para a *aplicação* inteligente dele**. Segundo, cresce a lógica da **IA soberana**: nações e setores regulados querem controlar onde seus dados e sua computação residem. Isso **abre uma janela concreta para países que oferecem o que a fronteira precisa e não consegue produzir sozinha**.
+
+### Os ativos que o Brasil leva para a mesa
+
+E o Brasil tem ativos reais para essa mesa. **Nossa matriz elétrica é uma das mais limpas e renováveis do mundo** — e energia deixou de ser detalhe: virou **o principal gargalo da expansão de data centers**, cujas GPUs de ponta já consomem mais de mil watts cada. **Temos escala continental, estabilidade institucional, um mercado interno relevante e um fuso horário conveniente para atender as Américas**. T**emos uma comunidade técnica robusta** e um **ecossistema de startups que já exporta software**. E temos um arcabouço de governança em construção — o **Plano Brasileiro de Inteligência Artificial (PBIA 2024–2028)**, a discussão do marco legal e a experiência com a LGPD — que **dá aos investidores algo que eles valorizam tanto quanto energia barata: previsibilidade de regras**.
+
+Comparação útil: a Índia estruturou sua missão nacional de IA com cerca de **US\$ 1,38 bilhão** e a meta de mobilizar mais de **10 mil GPUs** via parcerias público-privadas, mirando explicitamente a democratização do acesso à infraestrutura. Não é uma tentativa de vencer os Estados Unidos no treinamento de modelos. É uma escolha deliberada de *onde* competir. **O Brasil precisa da mesma clareza estratégica**.
+
+### De espectador a arquiteto
+
+O que isso significa na prática para quem toma decisões? Significa **tratar a IA como política de desenvolvimento econômico**, não apenas como pauta de tecnologia. Significa usar a energia limpa como argumento comercial para **atrair investimento em infraestrutura de processamento — transformando um ativo ambiental em vantagem industrial**. Significa **apoiar a internacionalização das nossas startups de IA e a exportação de serviços digitais**, porque é na camada de aplicação, não na de fundação, que capturamos valor com o que já sabemos fazer. E significa **amadurecer a governança não como um freio, mas como infraestrutura de confiança que reduz o risco percebido por quem decide onde alocar bilhões**.
+
+Nada disso acontece por inércia. A concentração que os dados mostram é justamente o que ocorre quando países assistem em vez de agir — o mapa é preenchido pelos que chegam primeiro e se integram verticalmente. **A janela para escolher um lugar melhor existe, mas não é permanente**. Infraestrutura leva anos para ser construída, talento leva mais tempo ainda para ser formado, e **regras levam ciclos políticos inteiros para amadurecer**. As decisões que definem onde o Brasil estará em 2030 estão sendo tomadas — ou adiadas — agora.
+
+A pergunta que interessa aos gestores públicos e executivos brasileiros não é se venceremos a corrida dos modelos de fronteira. É outra, mais precisa e mais nossa: **em quais andares da cadeia de valor da IA o Brasil decide competir — e o que faremos, ainda nesta década, para chegar lá antes que o mapa endureça de vez?**
+
+O país **NÃO** precisa ser o dono do cérebro artificial do mundo. Mas **pode, e deveria, ser um lugar indispensável para que esse cérebro funcione**. A diferença entre uma coisa e outra é estratégia — e tempo.
+
+------------------------------------------------------------------------
+
+*Fontes: Banco Mundial, Atlas of Global Development: Inequalities in AI (2025); OCDE, AI Markets: Competition Issues (2026) e The Impact of AI on Productivity, Distribution and Growth (2024); Banco Mundial, Global Trends in AI Governance (2024) e Devising a Strategic Approach to AI (2025); Plano Brasileiro de Inteligência Artificial (PBIA) 2024–2028.*
+
+---
+
+*Publicado originalmente na newsletter **Radar**, no LinkedIn, em 21/07/2026. [Ver o artigo original e os comentários](https://www.linkedin.com/pulse/o-brasil-ainda-pode-escolher-seu-lugar-mapa-global-da-c%C3%A9sar-ciuffo-sudlf).*

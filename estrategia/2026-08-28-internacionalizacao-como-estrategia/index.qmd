@@ -1,0 +1,139 @@
+---
+title: "Internacionalização como Estratégia: da Exportação Oportunista à Competitividade Organizacional"
+description: "Da exportação oportunista à competitividade organizacional: por que a internacionalização precisa ser uma escolha deliberada."
+author: "César Ciuffo"
+date: "2026-08-28"
+categories: [Internacionalização, Estratégia, Exportação, Radar]
+---
+
+### Resumo
+
+**O Brasil encerrou 2025 com o maior número de empresas exportadoras de sua série histórica e com valor recorde de exportações**, mas a base exportadora permanece pequena para o tamanho da economia e fortemente concentrada: **cerca de 40% das empresas exportadoras são micro e pequenas,** respondendo por menos de 1% do valor exportado. Este artigo argumenta que a explicação para esse paradoxo está menos nas barreiras externas e mais na forma como as empresas brasileiras decidem — ou deixam de decidir — internacionalizar-se. **Quando a exportação é tratada como evento oportunista, a empresa entra e sai do mercado internacional ao sabor do câmbio e da demanda doméstica; quando é tratada como estratégia deliberada da organização, ela reorganiza recursos, capacidades e governança**, e passa a retroalimentar a competitividade da empresa inclusive no mercado interno. O choque tarifário norte-americano de 2025–2026 é usado como evidência dessa tese: as empresas que absorveram melhor o impacto foram justamente as que dispunham de capacidades construídas — **diversificação de mercados, inteligência comercial, adequação de produto** — e não as que dependiam de um único destino. O artigo dedica atenção particular à **exportação de serviços — que alcançou o recorde de US\$ 51,8 bilhões em 2025**, com 65% de entrega digital, mas convive com um déficit estrutural superior a US\$ 50 bilhões —, argumentando que ela é a expressão mais pura da tese defendida: em serviços, não há vantagem natural a capturar; toda a competitividade internacional é capacidade organizacional construída. O artigo conclui discutindo o papel do **ecossistema de promoção comercial, com destaque para a Apex-Brasil,** na **transformação de exportadores eventuais em organizações internacionalizadas**.
+
+**Palavras-chave:** internacionalização; estratégia organizacional; competitividade; promoção comercial; exportação de serviços.
+
+------------------------------------------------------------------------
+
+### 1. Introdução: o paradoxo da base exportadora brasileira
+
+Os números de 2025 autorizam uma leitura otimista do comércio exterior brasileiro. As exportações totais de bens alcançaram US\$ 348,7 bilhões, o maior valor da série histórica iniciada em 1997, com crescimento de 3,5% sobre 2024 — resultado obtido, vale registrar, em um ano de forte turbulência tarifária. As exportações de serviços também bateram recorde, somando US\$ 51,8 bilhões, dos quais 65% entregues digitalmente. O país ainda encerrou o ano com 29.818 empresas exportadoras de bens, recorde da série iniciada em 2008, um crescimento de 3,4% em relação a 2024 e de quase 50% em uma década (eram 19,9 mil em 2015).
+
+A leitura menos confortável aparece quando se cruza quantidade com valor. Das quase 30 mil exportadoras, **11.822 são microempreendedores individuais, microempresas ou empresas de pequeno porte — cerca de 40% da base**. Juntas, essas empresas movimentaram aproximadamente US\$ 2,6 bilhões, o equivalente a 0,8% do valor total exportado. As empresas médias e grandes, por sua vez, concentraram 92,1% do valor, com US\$ 320,9 bilhões. Em outras palavras: o Brasil ampliou a porta de entrada, mas o corredor continua estreito. **A maior parte das empresas que exporta o faz em pequena escala, de forma intermitente, e uma fração relevante abandona a atividade exportadora após poucas operações — o fenômeno conhecido na literatura como baixa sobrevivência exportadora**.
+
+Para uma economia do porte da brasileira — cerca de 20 milhões de CNPJs ativos —, uma base de 30 mil exportadoras significa que menos de 0,2% das empresas do país vende ao exterior. O paradoxo não é de acesso: acordos comerciais, plataformas digitais, logística internacional e programas públicos de apoio nunca estiveram tão disponíveis. O paradoxo é de **decisão organizacional**. A tese deste artigo é direta: **a diferença entre a empresa que exporta uma vez e a empresa que se internacionaliza não está no produto, no porte ou no setor — está no lugar que a internacionalização ocupa na *estratégia da organização***.
+
+### 2. Internacionalização como decisão estratégica, não como evento comercial
+
+Convém distinguir dois comportamentos frequentemente confundidos.
+
+A **exportação reativa** é o atendimento de uma demanda que chega: um comprador estrangeiro encontra a empresa em uma feira, um distribuidor faz um pedido pontual, o câmbio desvalorizado torna o preço competitivo por uma janela de tempo. A empresa vende ao exterior, mas nada em sua estrutura muda. Não há área ou responsável pelo mercado internacional, não há adequação deliberada de produto, não há inteligência sobre o mercado de destino. Quando o câmbio vira, o comprador troca de fornecedor ou a demanda doméstica aquece, a exportação simplesmente cessa. Esse padrão explica boa parte da rotatividade da base exportadora brasileira: empresas que entram e saem da pauta sem jamais terem se internacionalizado de fato.
+
+A **internacionalização estratégica**, em contraste, é uma escolha deliberada da alta gestão que reorganiza a empresa. Ela responde a perguntas que a exportação reativa nunca formula: em quais mercados queremos estar em cinco anos? Que capacidades precisamos construir para isso? Que adaptações de produto, certificação, preço e canal esse posicionamento exige? Como financiamos o ciclo mais longo da venda internacional?
+
+A literatura de negócios internacionais oferece três lentes úteis — e complementares — para essa distinção, sem que seja necessário aprofundá-las academicamente aqui. O **Modelo de Uppsala** descreve a internacionalização como um processo gradual de aprendizado: a empresa começa por mercados psicologicamente próximos e modos de entrada de baixo comprometimento, e avança à medida que acumula conhecimento experiencial. A implicação prática é que internacionalizar é construir conhecimento organizacional, não fechar contratos isolados — e conhecimento se acumula com continuidade, não com eventos pontuais. Já a **visão baseada em recursos (RBV)** desloca o foco da oportunidade externa para a capacidade interna: a vantagem competitiva sustentável nasce de recursos e capacidades valiosos, raros e difíceis de imitar. Sob essa lente, a pergunta relevante não é "existe demanda lá fora?" — quase sempre existe —, mas "temos, ou estamos construindo, as capacidades para atendê-la de forma consistente e lucrativa?".
+
+A terceira lente é a das **Born Globals** — empresas que nascem internacionalizadas ou iniciam a atuação externa nos primeiros anos de vida, sem percorrer a trajetória gradual prevista por Uppsala. Identificado originalmente por Rennie (1993) e formalizado por Oviatt e McDougall (1994) como *international new ventures*, o fenômeno foi consolidado por Knight e Cavusgil (2004), que atribuíram a precocidade internacional dessas empresas não a recursos tangíveis — que raramente possuem —, mas a uma **orientação empreendedora internacional dos fundadores** combinada a capacidades intensivas em conhecimento: inovação, foco em nichos globais e uso agressivo de canais digitais e redes de parceiros. Não por acaso, o habitat natural das Born Globals são os **setores de serviços e tecnologia** — software, design, consultoria, economia criativa —, em que o "produto" é conhecimento e viaja sem contêiner, tema retomado na seção 5. **A digitalização barateou drasticamente esse caminho: marketplaces, plataformas de pagamento internacional e marketing digital permitem que uma empresa pequena esteja visível ao comprador global desde o primeiro dia**. N**o contexto brasileiro, o avanço de 138,5% no número de micro e MEIs exportadores em dez anos sugere que esse perfil deixou de ser exceção anedótica — ainda que a maioria dessas empresas opere em escala reduzida e enfrente o desafio de sustentar a presença internacional ao longo do tempo**.
+
+À primeira vista, as Born Globals parecem contradizer o argumento gradualista. A leitura mais precisa é a oposta: elas o **radicalizam**. O que a Born Global elimina não é a estratégia — é a espera. Nela, **a internacionalização não é uma etapa tardia do crescimento, mas o próprio desenho do negócio: mercado-alvo, produto, canal e modelo de receita são concebidos globais desde a origem**. A Born Global é, nesse sentido, o caso-limite da tese deste artigo: a demonstração de que o determinante da internacionalização não é tempo de casa, porte ou setor, e sim **intencionalidade estratégica** — **a decisão deliberada, tomada pela liderança, de competir internacionalmente**. O risco simétrico também merece registro: a precocidade sem capacidades construídas (conformidade, preço, gestão) produz o análogo jovem do exportador oportunista — a Born Global que morre na primeira recompra. Velocidade não substitui prontidão; apenas comprime o prazo para construí-la.
+
+O ponto de convergência das três lentes é o mesmo: **internacionalização é um ativo organizacional que se constrói, não uma receita que se captura**. E ativos organizacionais são responsabilidade da governança da empresa — do conselho e da diretoria —, não de um departamento comercial que "também atende exportação".
+
+### 3. Os vetores internos de competitividade internacional
+
+Se internacionalizar é construir capacidades, quais são elas? A experiência acumulada pelos programas de qualificação empresarial — no Brasil, notadamente o PEIEX (Programa de Qualificação para Exportação) da Apex-Brasil — permite organizá-las em cinco vetores, que funcionam na prática como uma régua de prontidão da empresa para o mercado internacional.
+
+**a) Inteligência de mercado.** Saber para onde ir antes de decidir como ir: tamanho e dinâmica da demanda no destino, estrutura de concorrência, barreiras tarifárias e não tarifárias, exigências regulatórias e culturais. A empresa que escolhe mercado por inércia ("todo mundo vende para os EUA") assume um risco de concentração que a empresa que escolhe por análise evita — a seção 4 mostrará o custo recente dessa diferença.
+
+**b) Adequação de produto e conformidade.** Certificações sanitárias, técnicas e de sustentabilidade; rotulagem; embalagem; adaptação a preferências locais. É o vetor em que a distância entre "produto bom no Brasil" e "produto vendável no exterior" se torna concreta, e frequentemente o que mais demanda investimento prévio.
+
+**c) Capacidade gerencial e governança.** Um responsável formal pelo mercado internacional, metas de exportação no planejamento estratégico, domínio de contratos internacionais, Incoterms, câmbio e mitigação de riscos. É o vetor que distingue estruturalmente a empresa internacionalizada da exportadora eventual: sem ancoragem na governança, os demais vetores não se sustentam no tempo.
+
+**d) Presença digital e canais.** Site e materiais em idioma estrangeiro, presença em marketplaces e vitrines internacionais, capacidade de prospecção e atendimento remoto. A digitalização reduziu drasticamente o custo de estar visível ao comprador global — é o vetor que viabiliza o fenômeno das Born Globals discutido na seção 2 —, mas visibilidade sem os demais vetores gera consultas, não contratos.
+
+**e) Estrutura de preço, financiamento e logística.** Formação de preço de exportação (e não mero preço doméstico convertido), acesso a financiamento e seguro de crédito à exportação, desenho logístico e tributário da operação. É o vetor que determina se a venda internacional é lucrativa ou apenas faturada.
+
+Dois atributos desses vetores merecem destaque. Primeiro, eles são **interdependentes**: inteligência de mercado sem adequação de produto gera diagnóstico sem execução; canal digital sem estrutura de preço gera demanda sem margem. Segundo, eles são **mensuráveis**: é possível avaliar objetivamente em que estágio de prontidão a empresa está e priorizar os investimentos de maior retorno — princípio que fundamenta os instrumentos de avaliação de prontidão exportadora adotados pelas agências de promoção comercial, discutidos na seção 6.
+
+### 4. O ciclo virtuoso — e o teste do choque tarifário
+
+A defesa da internacionalização estratégica não é apenas normativa; ela se apoia em um dos achados mais consistentes da economia internacional: **empresas exportadoras são, em média, mais produtivas, mais inovadoras e mais resilientes que as não exportadoras**. Parte desse diferencial é seleção (as melhores empresas conseguem exportar), mas parte relevante é aprendizado — o chamado ***learning by exporting***: **a exposição a compradores mais exigentes, concorrentes mais sofisticados e padrões técnicos mais rigorosos força a empresa a melhorar processos, produtos e gestão**. Esses ganhos não ficam confinados à operação internacional; eles elevam a competitividade da empresa também no mercado doméstico. É por isso que **a internacionalização, quando estratégica, opera como um ciclo virtuoso: exportar melhora a empresa, e a empresa melhor exporta mais**.
+
+Há ainda o benefício da diversificação de risco — e o período recente ofereceu ao Brasil um experimento natural de rara clareza. Em agosto de 2025, os Estados Unidos impuseram tarifas de até 50% sobre a maior parte dos bens brasileiros, com isenções para alguns setores-chave. O impacto imediato foi severo: as exportações brasileiras aos EUA caíram 18,5% já no primeiro mês de vigência das tarifas, com quedas superiores a 80% em produtos como açúcar e aeronaves. No acumulado de janeiro a julho de 2026, as vendas ao mercado norte-americano somaram US\$ 21 bilhões, recuo de 12,2% frente ao mesmo período de 2025 — o pior desempenho em três anos —, e a participação dos EUA na pauta exportadora brasileira recuou a 9,4%, o menor patamar desde 1997. O Ministério da Fazenda estimou que o choque poderia custar até 138 mil postos de trabalho e 0,2 ponto percentual do PIB até o fim de 2026.
+
+E, no entanto, **2025 fechou com exportações totais recordes**. Como? Pela via da **realocação de mercados**: no auge do choque, as vendas brasileiras cresceram 31% para a China, 40,4% para a Argentina e 43,8% para o México. **O exemplo setorial da indústria moveleira é ilustrativo: a participação dos EUA nas exportações do setor caiu de 28,3% em 2024 para 16,5% no acumulado de 2026, enquanto a América Latina avançou de 53,1% para 64,5%**.
+
+A lição estratégica do episódio é precisa. A capacidade de redirecionar vendas em poucos meses **não se improvisa no momento do choque** — ela pressupõe **inteligência sobre mercados alternativos, produtos já adequados a outras exigências regulatórias, canais e relacionamentos previamente construídos**. **As empresas que atravessaram melhor o tarifaço foram as que haviam tratado a *internacionalização como estratégia***; as que dependiam de um único destino, conquistado por oportunidade e não por escolha, absorveram o impacto integral. **Diversificação de mercados não é um resultado estatístico da pauta nacional: é a soma de decisões estratégicas tomadas — ou não tomadas — dentro de cada empresa, antes da crise**.
+
+### 5. A fronteira dos serviços: a exportação mais intensiva em estratégia
+
+Se a internacionalização é capacidade construída, a exportação de serviços é o caso em que essa afirmação se verifica em estado puro. Em bens, parte da competitividade brasileira ainda repousa sobre vantagens naturais — solo, clima, recursos minerais. Em serviços, não há vantagem herdada: **toda a competitividade internacional é organizacional** — talento, metodologia, reputação, propriedade intelectual, capacidade de entrega remota. É o terreno em que a tese deste artigo deixa de ser argumento e vira condição de existência: nenhuma empresa exporta serviços por acidente cambial.
+
+Os números recentes revelam simultaneamente o avanço e a assimetria. **As exportações brasileiras de serviços atingiram o recorde de US\$ 51,8 bilhões em 2025, com 65% do total entregue digitalmente** — evidência de que o canal dominante já não é o deslocamento físico, mas a rede. O dado da OCDE citado pelo MDIC no lançamento do painel ComexVis Serviços acrescenta uma camada frequentemente ignorada: **cerca de 40% do valor agregado das exportações brasileiras de manufaturados corresponde a serviços incorporados aos produtos — engenharia, design, software embarcado, logística, marketing**. É o fenômeno da **servicificação**: mesmo quem exporta bens compete, cada vez mais, pela qualidade dos serviços embutidos neles. A assimetria está no saldo: o Brasil importou US\$ 104,8 bilhões em serviços no mesmo ano, acumulando um déficit estrutural de US\$ 52,9 bilhões. O país consome do mundo o dobro do que lhe vende em serviços — um desequilíbrio que é, lido pelo avesso, um mapa de oportunidade competitiva.
+
+Três especificidades distinguem estrategicamente a exportação de serviços da de bens — e explicam por que ela exige ainda mais deliberação da governança:
+
+**As barreiras são regulatórias e reputacionais, não tarifárias.** O serviço não paga imposto de importação na fronteira; enfrenta, em vez disso, dupla tributação internacional, regimes de proteção de dados (LGPD, GDPR e equivalentes), exigências de reconhecimento de qualificações profissionais e licenciamentos locais. E, por ser intangível e frequentemente customizado, a venda depende de **confiança prévia**: portfólio, certificações, referências e marca pesam mais que preço. A consequência prática do primeiro ponto ficou visível no choque tarifário de 2025–2026: por estarem fora do alcance das tarifas sobre bens, os serviços emergiram como o componente mais resiliente da pauta — um argumento adicional, e conjuntural, para que empresas industriais desenvolvam receitas de serviços associadas a seus produtos.
+
+**Os modos de entrega são múltiplos.** A tipologia do GATS/OMC distingue quatro modos de prestação internacional: o comércio transfronteiriço (o serviço cruza a fronteira digitalmente — hoje o modo dominante na pauta brasileira), o consumo no exterior (o cliente vem ao prestador, como no turismo e na educação), a presença comercial (a empresa se estabelece no destino) e o movimento de pessoas (o profissional se desloca temporariamente). **Cada modo implica estrutura de custo, risco regulatório e modelo de receita distintos** — e a escolha entre eles é, novamente, uma decisão estratégica, não operacional.
+
+**Os vetores de prontidão mudam de conteúdo, não de natureza.** A régua da seção 3 permanece válida, mas se traduz: **inteligência de mercado vira mapeamento regulatório e de demanda por competências**; **adequação de produto vira certificações profissionais**, c**ompliance de dados e adaptação metodológica**; **estrutura de preço vira precificação internacional de serviços e gestão de dupla tributação**; e a **presença digital deixa de ser vitrine para se tornar o próprio canal de entrega**. A capacidade gerencial, por fim, ganha um componente crítico: **gestão de talento, porque em serviços o ativo exportado são pessoas e conhecimento**.
+
+Para a **promoção comercial pública, a implicação é direta: o instrumental clássico — feira, estande, missão — foi desenhado para bens e captura mal a venda de intangíveis**. A **promoção de serviços pede rodadas de negócios especializadas, presença em plataformas e hubs digitais, projetos setoriais de imagem e reputação (software, economia criativa, franquias, educação, saúde) e apoio à conformidade regulatória nos mercados-alvo** — frentes em que **a Apex-Brasil já atua por meio de projetos setoriais com entidades do setor de tecnologia e da economia criativa, e que tendem a ganhar peso relativo no portfólio à medida que a fronteira dos serviços se expande**.
+
+### 6. O papel do ecossistema de promoção: continuidade, não eventos
+
+Se **a internacionalização estratégica exige capacidades que a maioria das micro, pequenas e médias empresas não consegue construir sozinha — pelo custo, pela assimetria de informação e pelo ciclo longo de retorno** —, há um papel claro para a política pública de promoção comercial. No Brasil, esse papel é exercido centralmente pela **Apex-Brasil (Agência Brasileira de Promoção de Exportações e Investimentos)**, cujo **portfólio cobre precisamente os vetores descritos na seção 3: inteligência de mercado (estudos, dados e priorização de destinos), qualificação empresarial (com o PEIEX como porta de entrada da cultura exportadora), promoção comercial (feiras internacionais, rodadas de negócios, missões e projetos setoriais), expansão internacional e atração de investimentos**.
+
+A própria evolução da base exportadora sugere que esse ecossistema — que inclui também o MDIC/Secex, o SEBRAE, os bancos públicos de fomento e as entidades setoriais — tem produzido resultados: **o crescimento de quase 50% no número de exportadoras em dez anos, com avanço de 138,5% entre micro e MEIs, não ocorre espontaneamente**. Mas o diagnóstico deste artigo aponta para onde a promoção comercial precisa avançar: **da lógica do evento para a lógica do ciclo**.
+
+Três direções sintetizam essa agenda:
+
+**Prontidão como critério objetivo e contínuo.** Avaliar a maturidade exportadora da empresa na entrada, recomendar o produto ou serviço adequado ao seu estágio — e reavaliar periodicamente, inclusive quem já exporta. Uma régua de prontidão comum a todo o portfólio evita o desperdício clássico da promoção comercial: levar à feira internacional a empresa que ainda não tem produto adequado, ou oferecer qualificação básica a quem precisa de acesso a canal.
+
+**Acompanhamento pós-evento e conversão.** A feira, a missão ou a rodada de negócios é o meio do funil, não o fim. O valor público se materializa na conversão: o contato que vira negociação, a negociação que vira contrato, o contrato que vira recompra. Seguir a empresa após o evento — hoje o elo mais frágil da jornada — é o que transforma investimento em promoção em exportação recorrente.
+
+**Mensuração de impacto e retorno público.** Medir o resultado da promoção comercial por empresa e por ciclo — exportação incremental, sobrevivência exportadora, diversificação de mercados — permite alocar o orçamento público onde o retorno é maior e demonstrar à sociedade o valor do investimento. O choque tarifário reforçou essa necessidade: em um cenário de disputa geoeconômica, a aproximação e o acompanhamento contínuo das empresas deixam de ser boas práticas e passam a ser atitude estratégica do Estado.
+
+### 7. Conclusão: internacionalizar é decisão de governança
+
+O Brasil dispõe hoje de condições externas historicamente favoráveis à internacionalização de suas empresas — demanda global diversificada, plataformas digitais de acesso a mercados, um ecossistema público de promoção maduro — e, ainda assim, mantém uma base exportadora pequena, concentrada e volátil. Este artigo sustentou que o gargalo decisivo é interno às organizações: **a internacionalização tratada como evento comercial produz exportadores eventuais; tratada como estratégia, produz empresas competitivas**.
+
+As implicações são distintas para cada ator. Para o **empresário**, a mensagem é que **a decisão de internacionalizar pertence à governança da empresa** — ao planejamento estratégico, ao orçamento, à estrutura organizacional — e não à área de vendas. Os cinco vetores de prontidão oferecem um roteiro objetivo de por onde começar. Para o **gestor público de promoção comercial**, a mensagem é que **o valor se cria no ciclo, não no evento: prontidão medida na entrada, produto certo para cada estágio, acompanhamento até a conversão e mensuração de impacto na saída**. Para ambos, o episódio tarifário de 2025–2026 deixou uma evidência que dispensa modelos: **quando o choque veio, a estratégia construída antes valeu mais do que qualquer reação improvisada depois**.
+
+**Exportar é um resultado. Internacionalizar-se é uma escolha.** Em nenhum lugar isso é mais literal do que na exportação de serviços — a fronteira em que o Brasil ainda vende ao mundo metade do que compra, e em que cada dólar exportado é integralmente capacidade organizacional construída. **A competitividade das empresas brasileiras — e a resiliência da pauta exportadora do país — depende de quantas organizações fizerem essa escolha de forma deliberada, e de quão bem o ecossistema de promoção souber acompanhá-las ao longo de todo o ciclo**.
+
+------------------------------------------------------------------------
+
+### Referências e fontes de dados
+
+- MDIC/Secex. *Relatório Anual de Comércio Exterior por Porte de Empresas* — dados de 2025 (29.818 empresas exportadoras; distribuição por porte e valor). Divulgado em março de 2026.
+
+- MDIC/Secex. Estatísticas de comércio exterior 2025 — exportações totais de US\$ 348,7 bilhões (série histórica desde 1997).
+
+- MDIC/Secex. *Painel Comércio Exterior Brasileiro de Serviços em Números (ComexVis Serviços)* — exportações de serviços de US\$ 51,83 bilhões em 2025 (65% entregues digitalmente); importações de US\$ 104,77 bilhões; déficit de US\$ 52,94 bilhões. Lançado em janeiro de 2026, com base em dados primários do Banco Central.
+
+- OCDE (TiVA), citada pelo MDIC — cerca de 40% do valor agregado das exportações brasileiras de manufaturados corresponde a serviços incorporados.
+
+- OMC. *Acordo Geral sobre o Comércio de Serviços (GATS)* — tipologia dos quatro modos de prestação.
+
+- Amcham Brasil. *Monitor do Comércio Brasil–Estados Unidos* — exportações aos EUA de janeiro a julho de 2026 (US\$ 21 bilhões; –12,2%; participação de 9,4% na pauta).
+
+- Ministério da Fazenda. Estimativas de impacto do choque tarifário (ago/2025–dez/2026).
+
+- Cecafé e entidades setoriais — dados de redirecionamento de mercados (café, móveis, carnes).
+
+- Johanson, J.; Vahlne, J.-E. (1977; 2009). Modelo de Uppsala de internacionalização.
+
+- Barney, J. (1991). Visão baseada em recursos (RBV).
+
+- Rennie, M. W. (1993). Born global. *McKinsey Quarterly*.
+
+- Oviatt, B. M.; McDougall, P. P. (1994). Toward a theory of international new ventures. *Journal of International Business Studies*.
+
+- Knight, G. A.; Cavusgil, S. T. (2004). Innovation, organizational capabilities, and the born-global firm. *Journal of International Business Studies*.
+
+- Apex-Brasil. *Carta de Produtos e Serviços ao Cliente* (v. 1.2/2025) — portfólio em cinco categorias.
+
+---
+
+*Publicado originalmente na newsletter **Radar**, no LinkedIn, em 28/08/2026. [Ver o artigo original e os comentários](https://www.linkedin.com/pulse/internacionaliza%C3%A7%C3%A3o-como-estrat%C3%A9gia-da-exporta%C3%A7%C3%A3o-%C3%A0-c%C3%A9sar-ciuffo-om5jf).*

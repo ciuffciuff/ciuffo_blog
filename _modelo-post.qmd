@@ -8,6 +8,7 @@
 # ============================================================
 title: "Título do post"
 description: "Resumo de uma ou duas linhas que aparece no cartão da listagem."
+author: "César Ciuffo"
 date: "2026-11-15"
 categories: [Tema 1, Tema 2]
 # image: capa.jpg        # opcional: coloque uma imagem na pasta do post

@@ -1,6 +1,7 @@
 ---
 title: "People Analytics com privacidade: a pergunta que guia o meu doutorado"
 description: "Como analisar dados de pessoas sem expor as pessoas? Uma introdução à pesquisa com criptografia homomórfica."
+author: "César Ciuffo"
 date: "2026-11-01"
 categories: [Doutorado, Privacidade, People Analytics]
 ---
