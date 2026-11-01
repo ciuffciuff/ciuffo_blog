@@ -12,9 +12,7 @@ A resposta que me parece mais honesta é esta: **um país é tão soberano quant
 
 Neste 7 de setembro, quero compartilhar uma proposta de estratégia de internacionalização para o Brasil, como direcionador de políticas públicas, organizada como um mapa estratégico: um encadeamento de causa e efeito em que cada camada sustenta a seguinte, até chegar ao que realmente importa. E, desta vez, com os números na mesa.
 
-::: {.callout-note appearance="simple"}
-Esta figura está disponível no [artigo original no LinkedIn](https://www.linkedin.com/pulse/7-de-setembro-independ%C3%AAncia-%C3%A9-ter-estrat%C3%A9gia-uma-proposta-ciuffo-aoiff).
-:::
+![Proposta: Estratégia de Internacionalização para o Brasil — mapa estratégico em camadas, com emprego e renda como objetivo final. Elaborado pelo autor.](mapa-estrategico.png){fig-alt="Mapa estratégico em cinco camadas: base de capacidades, instrumentos e serviços, posicionamento e mercado, resultados econômicos intermediários e, no topo, aumentar a geração de empregos e renda no país."}
 
 ### O topo do mapa: emprego e renda
 

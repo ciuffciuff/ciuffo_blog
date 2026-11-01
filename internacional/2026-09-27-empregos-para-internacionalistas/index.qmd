@@ -3,8 +3,11 @@ title: "Empregos para internacionalistas: RI, Comex e as portas da ApexBrasil"
 description: "Relações Internacionais × Comércio Exterior, Projetos Setoriais, PEIEX e onde procurar vagas."
 author: "César Ciuffo"
 date: "2026-09-27"
+image: capa.png
 categories: [Relações Internacionais, Comércio Exterior, Carreira, Radar]
 ---
+
+![](capa.png){fig-alt="Capa: Empregos para internacionalistas — rotas de Relações Internacionais e Comércio Exterior saindo do Brasil"}
 
 ### Um mercado maior do que parece
 
