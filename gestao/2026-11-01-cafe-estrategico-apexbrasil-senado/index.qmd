@@ -1,0 +1,62 @@
+---
+title: "Café Estratégico: do acesso ao desenvolvimento"
+description: "E-book da roda de conversa entre ApexBrasil e Senado Federal sobre como transformar o acesso a plataformas de cursos em desenvolvimento de pessoas."
+author: "César Ciuffo"
+date: "2026-11-01"
+image: capa.png
+categories: [Gestão de Pessoas, Aprendizagem Corporativa, Setor Público, Eventos]
+---
+
+![](capa.png){fig-alt="Capa do e-book Café Estratégico, Brasília, 26 de outubro de 2026: Do acesso ao desenvolvimento. Como ApexBrasil e Senado Federal transformam o uso da Udemy Business em desenvolvimento de pessoas."}
+
+Em **26 de outubro de 2026**, a ApexBrasil recebeu em sua sede, em Brasília, o primeiro **Café Estratégico**: uma roda de conversa com o Senado Federal, representado pelo Instituto Legislativo Brasileiro (ILB) e pelo Prodasen, sobre o uso de plataformas de aprendizagem no setor público. Participei pela ApexBrasil, ao lado da nossa gerente de RH, Celene Boaventura.
+
+O resultado da conversa virou um e-book, que compartilho aqui.
+
+[Baixar o e-book (PDF, 19 páginas)](cafe-estrategico-apexbrasil-senado-ebook.pdf){.btn .btn-primary}
+
+## A pergunta que guiou a conversa
+
+Acesso a dezenas de milhares de cursos já não é o problema. A provocação da tarde foi outra: estamos medindo quanto as pessoas aprendem, ou entendendo o que precisa ser desenvolvido e como a aprendizagem gera valor para a instituição?
+
+## Quem esteve na roda
+
+- **ApexBrasil:** Celene Boaventura, Gerente de RH, e eu.
+- **Senado Federal:** Junia Melo (ILB), Coordenadora de Capacitação, Treinamento e Ensino, e José Coelho Ávila (Prodasen), Chefe do Escritório Setorial de Gestão.
+- **Mediação:** Rafael Lacerda, CEO da Raleduc e vice-presidente de Educação da ABRH-DF.
+- **Realização e apoio:** Raleduc e Udemy Business, com apoio da ApexBrasil, do ILB Senado e da ABRH-DF.
+
+## O que a ApexBrasil levou para a mesa
+
+Na Agência, a escolha das plataformas partiu de três necessidades: dar a mesma oportunidade a quem está na sede e nos escritórios no Brasil e no exterior; conectar carreira, desempenho e educação, que eram processos separados; e abrir o acesso também a estagiários e terceirizados, como parte do pilar de ESG.
+
+Alguns números apresentados no encontro:
+
+| | |
+|---|---|
+| **10** plataformas avaliadas antes de contratar três | **64 mil** cursos num catálogo único, integrado ao ambiente Microsoft |
+| **21** competências no modelo da Agência | **4.300** certificações para cerca de 400 colaboradores |
+| **1.400** eventos por ano, com equipes sempre em trânsito | **22 → 12** anos para percorrer a carreira inteira, com o novo plano de desenvolvimento |
+
+A virada foi trocar a avaliação de desempenho, uma fotografia do passado, pela **avaliação de desenvolvimento**: onde estou hoje e o que preciso fazer para chegar ao próximo nível. Cada curso entra no PDI, é pactuado entre líder e liderado e conta na carreira.
+
+## Seis aprendizados
+
+A síntese da Raleduc, no fim do e-book, resume bem a tarde:
+
+1. **Acesso não é aprendizagem.** A licença é o começo; o trabalho de verdade é a gestão da aprendizagem.
+2. **Conecte ao que já existe.** PDI, carreira, competências e estratégia. Curso solto não vira desenvolvimento.
+3. **O gestor dá o rumo.** A pessoa é protagonista; o líder traz clareza e acompanha a evolução.
+4. **Regras simples e ajustáveis.** Horas mínimas em vez de certificados. Muitas vezes, o menos é mais.
+5. **Evidência é história.** Casos concretos, com rosto e nome, convencem mais que horas de consumo.
+6. **Compartilhar multiplica.** Indicação entre colegas e multiplicadores espalham o que se aprende.
+
+## Minhas falas na roda
+
+Sobre inteligência artificial, deixei uma ideia curta: **"IA sem contexto não faz nada."**
+
+E, para quem está começando ou recomeçando um programa de aprendizagem, o conselho: **"Não existe bala de prata. Dê protagonismo às pessoas: são elas que vão adotar, ou não, a cultura de aprendizado."**
+
+---
+
+*Agradeço ao Senado Federal, à Raleduc, à Udemy Business e à ABRH-DF pela parceria, e a todos que estiveram na plateia.*
