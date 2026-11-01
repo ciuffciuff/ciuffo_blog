@@ -1,5 +1,5 @@
 ---
-title: "Publicações"
+title: "Publicações Acadêmicas"
 subtitle: "Artigos, trabalhos em eventos e capítulos de livro"
 title-block-banner: true
 toc: false
