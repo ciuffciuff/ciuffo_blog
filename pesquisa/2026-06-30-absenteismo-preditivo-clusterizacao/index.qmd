@@ -16,14 +16,10 @@ CIUFFO MOREIRA, C. A.; LOPES, B.; CELLA, P. Modelo Preditivo de Absenteísmo e C
 DOI: [10.22481/recic.v8i1.19583](https://doi.org/10.22481/recic.v8i1.19583)
 :::
 
-## Sobre o trabalho
+## Resumo
 
-O artigo propõe uma abordagem integrada de People Analytics para a gestão preditiva do absenteísmo, seguindo a metodologia CRISP-DM. Ela combina duas frentes:
+O absenteísmo representa um dos fenômenos mais custosos e complexos da gestão de pessoas, impactando produtividade, clima organizacional e custos indiretos como sobrecarga de equipes e horas extras emergenciais. Abordagens tradicionais de gestão de frequência operam de forma descritiva e reativa, limitando a capacidade de intervenção preventiva. Este trabalho propõe uma abordagem integrada de People Analytics aplicada à gestão preditiva de absenteísmo, seguindo a metodologia CRISP-DM e combinando duas frentes complementares: (i) um Score de Risco de Absenteísmo, baseado em algoritmo Random Forest, que estima a probabilidade de ocorrência de eventos de ausência em janelas de 7, 30 e 90 dias; e (ii) uma clusterização híbrida baseada em K-Means, que segmenta colaboradores em quatro perfis comportamentais distintos (Estáveis, Recorrentes, Sazonais e Graves). O estudo foi conduzido em uma organização pública brasileira de promoção de exportações, utilizando 14.533 eventos de absenteísmo do período 2019-2025, distribuídos entre 676 colaboradores. O modelo preditivo foi selecionado entre 14 candidatos por meio de validação cruzada estratificada, alcançando AUC de 0,855, acurácia de 80,2% e recall de 63,1% no conjunto de validação temporal. A clusterização foi validada por meio de Silhouette Score, índice de Calinski-Harabasz, índice de Davies-Bouldin e teste ANOVA, com diferenças estatisticamente significativas (p < 0,001) entre os clusters. Os resultados foram integrados a um protótipo de painel interativo em Power BI, concebido para uso operacional pela área de Recursos Humanos, contemplando a visualização de scores individuais, perfis comportamentais e indicadores agregados; a adoção efetiva em rotina decisória e a aferição longitudinal de impacto permanecem como trabalho futuro. As contribuições principais incluem: (a) um pipeline reproduzível de engenharia de variáveis comportamentais, com destaque para features de sazonalidade baseadas em consistência multi-anual; (b) uma abordagem híbrida de clusterização que combina critérios determinísticos e aprendizado não supervisionado; e (c) um instrumento operacional integrado que pode ser replicado em outras organizações.
 
-- um **Score de Risco**, com Random Forest, que estima a probabilidade de ausência em janelas de 7, 30 e 90 dias;
-- uma **clusterização híbrida** com K-Means, que separa os colaboradores em quatro perfis comportamentais.
-
-O estudo usou 14.533 eventos de ausência de 676 colaboradores, de 2019 a 2025. O modelo preditivo foi escolhido entre 14 candidatos e chegou a AUC de 0,855. Os resultados foram levados a um protótipo de painel em Power BI para uso pela área de RH.
 
 **Palavras-chave:** People Analytics, Absenteísmo, Aprendizado de Máquina, CRISP-DM, Random Forest, K-Means, Clusterização, Score de Risco
 

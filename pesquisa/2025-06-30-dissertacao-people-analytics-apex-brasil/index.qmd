@@ -14,12 +14,17 @@ tipo-publicacao: "Dissertação de mestrado"
 MOREIRA, C. A. C. *People Analytics: um estudo de caso de ciência de dados na Gerência de Recursos Humanos da Apex-Brasil.* 2025. Dissertação (Mestrado Profissional em Computação Aplicada) – Universidade de Brasília, Brasília, 2025. Orientador: Prof. Dr. Gladston Luiz da Silva.
 :::
 
-## Sobre o trabalho
+## Resumo
 
-A dissertação estuda o **People Analytics**, o uso de ciência de dados na gestão de pessoas, num momento em que a Apex-Brasil passava por forte automação e digitalização de processos.
+O tema People Analytics ou HR Analytics ou Workforce Analytics é a implementação de técnicas de ciência de dados no ambiente de recursos humanos no âmbito das organizações, visando o melhor entendimento desta dinâmica e a predição de comportamentos. As práticas de People Analytics ainda não estão disseminadas no contexto brasileiro e, em especial, na Agência Brasileira de Promoção de Exportações e Investimentos (ApexBrasil), que passa por forte automação de processos e por um processo de digitalização. Este ambiente se torna propício para o estudo e análise de diversos aspectos para entender a segmentação dos empregados, as possibilidades de sua classificação e a predição de absenteísmo. Este trabalho tem o propósito de estudar diversas técnicas de agrupamento, classificação e predição, para a prospecção e implantação de modelos de aprendizado de máquinas na Apex-Brasil. Em termos metodológicos, passará por todas as fases propostas, a saber: i) Entendimento do negócio e do contexto dos processos de recursos humanos na Apex-Brasil; ii) Entendimento, pré-processamento e análise exploratória dos dados; iii) Modelagem; iv) Avaliação de resultados e discussões; e, v) Proposição do plano de implantação dos modelos no ambiente da Apex-Brasil. Os resultados encontrados reforçam os exemplos da literatura e atendem aos objetivos propostos do trabalho. Sugere-se a implantação dos modelos selecionados na Agência e a medição de resultados para eventuais ajustes e melhor atuação.
 
-Seguindo todas as fases do CRISP-DM, o trabalho testa técnicas de **agrupamento**, **classificação** e **projeção de séries temporais** para segmentar empregados, classificá-los e prever o absenteísmo, e termina com uma proposta de implantação dos modelos na Agência. Os artigos sobre segmentação e séries temporais publicados depois nasceram desta pesquisa.
+## Abstract
+
+::: {lang=en}
+The subject of People Analytics, HR Analytics, or Workforce Analytics is the implementation of data science techniques in the human resources (HR) environment within organizations, aiming at a better understanding of these dynamics and the prediction of behaviors. People Analytics practices are not yet widespread in the Brazilian context and, especially, in Agência Brasileira de Promoção de Exportações e Investimentos (ApexBrasil), which is undergoing strong process automation and an accentuated digitalization process. This environment becomes conducive to the study and analysis of several aspects to understand the segmentation of employees, the possibilities of their classification, and the prediction of absenteeism. This work aims to study several grouping, classification, and prediction techniques for the prospecting and implementation of machine learning models at Apex-Brasil. In methodological terms, it will go through all the proposed phases, namely: i) understanding the business and the context of human resources processes at Apex-Brasil; ii) understanding, preprocessing, and exploratory analysis of data; iii) Modeling; iv) Evaluation of results and discussions; and v) proposal of the plan for implementing the models in the Apex-Brasil environment. The partial results found reinforce the examples in the literature and meet the proposed objectives of the work. It is suggested that the selected models be implemented in the Agency and that the results be measured for possible adjustments and better performance.
+:::
+
 
 **Palavras-chave:** People Analytics, HR Analytics, Workforce Analytics, Agrupamento, Classificação, Séries Temporais, Projeções
 
-[Ler o trabalho completo](https://repositorio.unb.br/bitstream/10482/52667/1/CesarAntonioCiuffoMoreira_DISSERT.pdf){.btn .btn-primary}
+[Ler o trabalho completo](http://repositorio.unb.br/handle/10482/52667){.btn .btn-primary}

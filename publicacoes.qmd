@@ -60,7 +60,7 @@ DOI: [10.37885/240717123](https://doi.org/10.37885/240717123) · [Sobre o trabal
 
 **People Analytics: um estudo de caso de ciência de dados na Gerência de Recursos Humanos da Apex-Brasil.**
 Moreira, C. A. C. Dissertação (Mestrado Profissional em Computação Aplicada) – Universidade de Brasília, 2025. Orientador: Prof. Dr. Gladston Luiz da Silva.
-[Texto completo no Repositório da UnB](https://repositorio.unb.br/bitstream/10482/52667/1/CesarAntonioCiuffoMoreira_DISSERT.pdf) · [Sobre o trabalho](pesquisa/2025-06-30-dissertacao-people-analytics-apex-brasil/index.qmd)
+[Texto completo no Repositório da UnB](http://repositorio.unb.br/handle/10482/52667) · [Sobre o trabalho](pesquisa/2025-06-30-dissertacao-people-analytics-apex-brasil/index.qmd)
 :::
 
 ## Outros trabalhos
@@ -70,7 +70,7 @@ Moreira, C. A. C. Dissertação (Mestrado Profissional em Computação Aplicada)
 
 **A atuação da Agência Brasileira de Inteligência no campo das relações internacionais brasileiras.**
 Trabalho de conclusão de curso — Especialização em Relações Internacionais, Universidade de Brasília, 2012.
-DOI: [10.26512/2011.04.tcc.2424](https://doi.org/10.26512/2011.04.tcc.2424) · [Sobre o trabalho](pesquisa/2012-01-12-abin-relacoes-internacionais/index.qmd)
+DOI: [10.26512/2011.04.tcc.2424](https://doi.org/10.26512/2011.04.tcc.2424) · [Sobre o trabalho](pesquisa/2011-04-30-abin-relacoes-internacionais/index.qmd)
 :::
 
 <!-- Para incluir uma nova publicação, copie um dos blocos acima e edite. -->

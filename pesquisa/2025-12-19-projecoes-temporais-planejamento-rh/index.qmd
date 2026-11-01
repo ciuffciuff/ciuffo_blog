@@ -16,11 +16,36 @@ MOREIRA, C. A. C. Temporal Projections for Strategic Planning in Human Resources
 DOI: [10.20397/2177-6652/2025.v25i5.3171](https://doi.org/10.20397/2177-6652/2025.v25i5.3171)
 :::
 
-## Sobre o trabalho
+## Resumo
 
-O artigo explora o uso de modelos de **séries temporais** para prever o absenteísmo e apoiar o planejamento estratégico de Recursos Humanos.
+**Objetivo:** O objetivo deste estudo é explorar o uso de modelos de projeção de séries temporais na previsão de absenteísmo em Recursos Humanos (RH). Ele visa comparar diferentes modelos para melhorar o planejamento de ações organizacionais e a tomada de decisões.
 
-Numa abordagem quantitativa, compara os modelos **ARIMA**, **Holt-Winters** e **SARIMA**, com as vantagens e limitações de cada um. A contribuição é preencher uma lacuna na aplicação de projeções temporais à área de RH e oferecer aos gestores ferramentas práticas para antecipar tendências e planejar melhor.
+**Metodologia/Métodos Procedimentais:** Esta pesquisa emprega uma abordagem quantitativa, usando modelos de séries temporais como ARIMA, Holt-Winters e SARIMA. Esses modelos são aplicados para prever o absenteísmo em RH, demonstrando os pontos fortes e as limitações de cada um no contexto do planejamento organizacional.
+
+**Originalidade/Relevância:** Este estudo aborda a lacuna na aplicação teórica de projeções de séries temporais no campo de RH, focando especificamente na previsão de absenteísmo. Ele contribui para a relevância acadêmica ao fornecer insights sobre a utilidade prática dos modelos de séries temporais para a tomada de decisões de RH, uma área que não foi amplamente explorada.
+
+**Principais resultados:** Os resultados indicam que a projeção de séries temporais é uma ferramenta poderosa para melhorar a tomada de decisões de RH, oferecendo insights valiosos sobre tendências de absenteísmo e produtividade organizacional. A comparação dos modelos ARIMA, Holt-Winters e SARIMA destaca suas respectivas vantagens e limitações.
+
+**Contribuições teóricas/metodológicas:** Este estudo fornece contribuições significativas ao comparar vários modelos de séries temporais no contexto da previsão de absenteísmo. Ele oferece uma compreensão clara de qual modelo tem melhor desempenho em cenários específicos de RH e fornece métricas para avaliar o sucesso.
+
+**Contribuições sociais/gerenciais:** As descobertas têm implicações diretas para os gerentes de RH, fornecendo a eles ferramentas acionáveis para prever o absenteísmo e planejar de forma mais eficaz, melhorando assim a produtividade organizacional e mitigando potenciais desafios.
+
+## Abstract
+
+::: {lang=en}
+**Objective:** The objective of this study is to explore the use of time series projection models in predicting absenteeism within Human Resources (HR). It aims to compare different models to improve organizational action planning and decision-making.
+
+**Methodology/Procedural Methods:** This research employs a quantitative approach, using time series models such as ARIMA, Holt-Winters, and SARIMA. These models are applied to predict absenteeism in HR, demonstrating the strengths and limitations of each in the context of organizational planning.
+
+**Originality/Relevance:** This study addresses the gap in the theoretical application of time series projections within the HR field, specifically focusing on absenteeism prediction. It contributes to academic relevance by providing insights into the practical utility of time series models for HR decision-making, an area that has not been extensively explored.
+
+**Main Results:** The results indicate that time series projection is a powerful tool for improving HR decision-making, offering valuable insights into absenteeism trends and organizational productivity. The comparison of ARIMA, Holt-Winters, and SARIMA models highlights their respective advantages and limitations.
+
+**Theoretical/Methodological Contributions:** This study provides significant contributions by comparing various time series models in the context of absenteeism prediction. It offers a clear understanding of which model performs best in specific HR scenarios and provides metrics for evaluating success.
+
+**Social/Managerial Contributions:** The findings have direct implications for HR managers, providing them with actionable tools to predict absenteeism and plan more effectively, thereby improving organizational productivity and mitigating potential challenges.
+:::
+
 
 **Palavras-chave:** Séries temporais, absenteísmo, ARIMA, Holt-Winters, SARIMA, planejamento de RH
 

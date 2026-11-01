@@ -16,11 +16,16 @@ CIUFFO MOREIRA, C. A. Employee segmentation using clustering techniques: a case 
 DOI: [10.12662/2359-618xregea.v15i1.6206.pe6206.2026](https://doi.org/10.12662/2359-618xregea.v15i1.6206.pe6206.2026)
 :::
 
-## Sobre o trabalho
+## Resumo
 
-O artigo investiga como técnicas de aprendizado de máquina não supervisionado podem apoiar o People Analytics em organizações públicas brasileiras, um contexto de baixa maturidade analítica.
+Este estudo investiga como técnicas de machine learning não supervisionado podem apoiar People Analytics em organizações públicas brasileiras, contexto marcado por baixa maturidade analítica. Utilizando dados anonimizados de empregados ativos da ApexBrasil entre janeiro de 2019 e dezembro de 2023, o trabalho segue o framework CRISP-DM para comparar três métodos de clusterização: K-means, Clustering Hierárquico e DBSCAN. Embora o DBSCAN tenha apresentado maiores índices de silhueta, ele classificou grande parte dos registros como ruído, limitando sua utilidade organizacional. Assim, o K-means com oito grupos foi selecionado como melhor equilíbrio entre qualidade técnica e cobertura amostral. Os agrupamentos resultantes foram interpretados como perfis distintos de força de trabalho, fornecendo uma base interpretável para investigações futuras sobre perfis de força de trabalho em organizações públicas. Os resultados demonstram a viabilidade de implementação de People Analytics em contextos de dados administrativos limitados, oferecendo framework replicável para organizações públicas similares.
 
-Com dados anonimizados dos empregados ativos da ApexBrasil entre 2019 e 2023, e seguindo o CRISP-DM, o estudo compara **K-Means**, **Clustering Hierárquico** e **DBSCAN**. O DBSCAN teve os melhores índices de silhueta, mas classificou muitos registros como ruído. Por isso, o K-Means com **oito grupos** foi escolhido, pelo melhor equilíbrio entre qualidade técnica e cobertura da amostra. O resultado é um caminho replicável para outras organizações públicas, mesmo com dados administrativos limitados.
+## Abstract
+
+::: {lang=en}
+This study investigates how unsupervised machine learning techniques can support People Analytics in Brazilian public organizations, a context characterized by low analytical maturity. Using anonymized data from ApexBrasil’s active employees between January 2019 and December 2023, the work follows the CRISP-DM framework to compare three clustering methods: K-means, Hierarchical Clustering, and DBSCAN. Although DBSCAN presented higher silhouette indices, it classified a large portion of records as noise, limiting its organizational utility. Thus, K-means with eight clusters was selected as the best balance between technical quality and sample coverage. The resulting clusters were interpreted as distinct workforce profiles, providing an interpretable basis for future People Analytics investigations and workforce heterogeneity assessment. The results demonstrate the feasibility of implementing People Analytics in contexts with limited administrative data, offering a replicable framework for similar public organizations.
+:::
+
 
 **Palavras-chave:** people analytics; clustering; employee segmentation; K-Means; DBSCAN; Hierarchical Clustering; human resources data science
 

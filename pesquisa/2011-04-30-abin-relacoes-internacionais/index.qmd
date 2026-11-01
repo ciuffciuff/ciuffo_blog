@@ -1,0 +1,31 @@
+---
+title: "A atuação da Agência Brasileira de Inteligência no campo das relações internacionais brasileiras"
+description: "A ABIN e as relações internacionais brasileiras (especialização em RI, UnB)."
+author: "César Ciuffo"
+date: "2011-04-30"
+categories: [Relações Internacionais, Inteligência, TCC]
+secoes: "pesquisa internacional"
+tipo-publicacao: "Trabalho de conclusão de curso"
+---
+
+::: {.callout-note appearance="minimal" icon="false"}
+**Trabalho de conclusão de curso**
+
+MOREIRA, C. A. C. *A atuação da Agência Brasileira de Inteligência no campo das relações internacionais brasileiras.* Trabalho de conclusão de curso (Especialização em Relações Internacionais) – Instituto de Relações Internacionais, Universidade de Brasília, 2011. Orientador: Prof. Dr. Carlos Eduardo Vidigal.
+
+DOI: [10.26512/2011.04.tcc.2424](https://doi.org/10.26512/2011.04.tcc.2424)
+:::
+
+## Resumo
+
+Este trabalho tem o objetivo de realizar um estudo introdutório sobre as possíveis relações entre as áreas de Inteligência e Relações Internacionais no Brasil, por intermédio da revisão histórica do surgimento da inteligência brasileira, a conceituação teórica da atividade e a revisão de temas e agendas da Política de Defesa Nacional e prospecção da Política Nacional de Inteligência, que até o final deste trabalho não foi aprovada. Busca-se a formação de perspectiva do cenário internacional, mundial e regional, com a abordagem teórica e o relacionamento de assuntos estratégicos da agenda de política externa com as ambições brasileiras neste meio. Ao final do trabalho, são apresentadas as conclusões sobre a maturidade do serviço brasileira de inteligência, bem como a indicação das necessidades de aprofundamento de pesquisa.
+
+## Abstract
+
+::: {lang=en}
+This work aims to make an introductory study on the possible links between the areas of Intelligence and International Relations in Brazil, through the historical review of the emergence of the Brazilian intelligentsia, the theoretical conceptualization of activity and review of issues and agendas National Defence Policy and prospect of National Intelligence Policy, who until the end of this work was not approved. Search the formation of the perspective of the international, global and regional levels, with the theoretical approach and the relationship of strategic affairs at the foreign policy agenda with the Brazilian ambitions in this medium. At the end of the paper presents the findings on the maturation of Brazil's intelligence service, and an indication of the need for further research.
+:::
+
+
+
+[Ler o trabalho completo](https://doi.org/10.26512/2011.04.tcc.2424){.btn .btn-primary}

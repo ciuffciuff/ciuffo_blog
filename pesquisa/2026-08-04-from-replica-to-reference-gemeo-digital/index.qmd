@@ -11,13 +11,16 @@ tipo-publicacao: "Trabalho em evento"
 ::: {.callout-note appearance="minimal" icon="false"}
 **Trabalho em evento**
 
-*From Replica to Reference: Active Learning in Engineering Education for Digital Twin-Guided Real-System Evolution.* PAEE/ALE 2026 — International Conference on Active Learning in Engineering Education, 2026.
+SILVA, J. M.; TORRES, M. H.; ISHIKAWA, E.; MARIANO, A. M.; MOREIRA, C. A. C. From Replica to Reference: Active Learning in Engineering Education for Digital Twin–Guided Real-System Evolution. In: *PAEE/ALE 2026 — International Conference on Active Learning in Engineering Education*, 2026.
 :::
 
-## Sobre o trabalho
+## Abstract
 
-Trabalho apresentado na **PAEE/ALE 2026**, a International Conference on Active Learning in Engineering Education, sobre aprendizagem ativa no ensino de engenharia e o uso de **gêmeos digitais** para orientar a evolução de sistemas reais.
+::: {lang=en}
+This paper reports an active-learning application in a graduate IT project management course through a paradigm shift: treating the Digital Twin (DT) as the reference model that drives real-system (Real-life Twin=RT) evolution, rather than a subordinate replica validated against the present. Having PMBOK Guides and PMI BA Guide as major project management references, the course focuses on developing a project management guide tailored for DT components of Brasilia’s Solid Waste System, in an adapted PMBOK extension format. Distributed in groups, students work with a paired representation of the Real System in Question (RSQ=RT) and its digital counterpart (DSQ=DT), initially describing both systems in terms of Function, Structure, Process, and Context (F/S/P/C), showing interactions among these dimensions. To structure what the DT provides, learners apply the Digital Twin Consortium Capabilities (DTC) Periodic Table (WHAT: DS–Data Services, IR– Integration, IC–Intelligence, UX–User Experience, and MG–Management and TW–Trustworthiness). After structuring how capabilities are put together, the groups map selected functions to DTC AI-agent capabilities (HOW: PW-Perception/Knowledge, CG-Cognition/Reasoning, LA-Learning/Adaptation, IC-Interaction/Collaboration, AE-Action/Execution, and GS-Governance/Safety), spanning conversational, workflow, autonomous, and collaborative agent modalities. Learning activities are organized as twin-in-the-loop decision cycles: teams use DSQ to generate and compare implementable configuration chains DSQ(t1), DSQ(t2), ..., DSQ(tn) that target a desired future state RSQ(tn), with each update explicitly informing the required portfolio/program/project/extension/ operations effort in the real system. Evaluation triangulates rubric-based assessment of artifacts (traceability from F/S/P/C to WHAT/HOW choices, uncertainty and risk treatment, and decision defensibility), concept measures of anticipatory systems reasoning, and reflective analyses of reference-direction change (real to twin vs. twin to real). Expected results include a transferable instructional pattern for AI-enabled, governance-aware digital twins and empirical insight into how “twin-first” framing strengthens risk-informed, future-oriented engineering judgment.
+:::
 
-**Palavras-chave:** Gêmeos digitais, aprendizagem ativa, educação em engenharia
+
+**Keywords:** Active Learning; Digital twins; Anticipatory systems; AI agents
 
 [Ler o trabalho completo](https://www.researchgate.net/publication/412304828_From_Replica_to_Reference_Active_Learning_in_Engineering_Education_for_Digital_Twin-Guided_Real-System_Evolution){.btn .btn-primary}

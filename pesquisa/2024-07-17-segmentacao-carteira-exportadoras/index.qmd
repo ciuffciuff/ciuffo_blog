@@ -16,10 +16,11 @@ BONECKER, R. M. M.; MOREIRA, C. A. C.; PAULA, D. E. C.; VERRI, F. A. N. Segmenta
 DOI: [10.37885/240717123](https://doi.org/10.37885/240717123)
 :::
 
-## Sobre o trabalho
+## Resumo
 
-Capítulo do livro *Projetos de Pesquisa em Data Science: estudo de caso sobre a Apex-Brasil*, resultado da especialização em Ciência de Dados do **ITA** com a turma da Apex-Brasil. O trabalho aplica ciência de dados à **segmentação da carteira de clientes** da Agência, a partir do **Cadastro Nacional de Empresas Exportadoras Brasileiras**.
+Este estudo realiza a identificação do perfil das empresas brasileiras exportadoras, a partir da lista de exportadoras e importadoras divulgada pelo governo brasileiro, dados fornecidos pela SECEX-MDIC (Secretaria de Comércio Exterior do Ministério do Desenvolvimento, Indústria, Comércio e Serviços) e pela Receita Federal do Brasil. Realizada a análise exploratória dos dados, técnicas de análise de componentes principais, de agrupamento (k-médias) e de mineração de regras de associação foram aplicadas. Por meio da análise de componentes principais, considerando dez atributos quantitativos, foi possível identificar uma quantidade de grupos para iniciar o agrupamento via k-médias. Por conseguinte, por meio de k-médias, foi possível validar a quantidade de grupos e analisar as características de cada grupo para os atributos quantitativos selecionados. E, por fim, com a utilização da técnica de mineração de regras de associação, foi possível extrair características interpretáveis de apenas um grupo. Como resultado, há evidências que os dados existentes não são adequados para identificar o perfil das empresas e que, portanto, para atingir o objetivo será necessário enriquecer a base com informações, tais como valor exportado pela empresa, produto exportado e quantidade de países para os quais a empresa exportou, entre outras.
 
-**Palavras-chave:** Segmentação de clientes, empresas exportadoras, ciência de dados, inteligência comercial
+
+**Palavras-chave:** Apex-Brasil, Ciência de Dados, Empresas Brasileiras, Exportadoras, Importadoras, Análise de Componentes Principais, Agrupamento, Método k-Médias, Mineração de Regras de Associação
 
 [Ler o trabalho completo](https://doi.org/10.37885/240717123){.btn .btn-primary}
