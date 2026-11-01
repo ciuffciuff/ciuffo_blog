@@ -1,25 +1,26 @@
 ---
 title: "Publicações"
-subtitle: "Artigos científicos e capítulos de livro"
+subtitle: "Artigos, trabalhos em eventos e capítulos de livro"
 title-block-banner: true
 toc: false
 ---
 
-Perfil completo no [ORCID](https://orcid.org/0009-0001-0248-6791). Nome em citações: **César Antônio Ciuffo Moreira**.
+Lista baseada no meu registro no [ORCID](https://orcid.org/0009-0001-0248-6791). Também estou no [Currículo Lattes](https://lattes.cnpq.br/3058755100021568) e no [SciProfiles](https://sciprofiles.com/profile/cesarciuffo1).
+Nome em citações: **César Antônio Ciuffo Moreira** (Moreira, C. A. C.).
 
 ## Artigos em periódicos
 
 ::: {.callout-note appearance="minimal" icon="false"}
 ### 2026
 
-**Modelo Preditivo de Absenteísmo e Clusterização de Perfis Comportamentais.**
+**Modelo Preditivo de Absenteísmo e Clusterização de Perfis Comportamentais: uma abordagem de people analytics aplicada à gestão de frequência organizacional.**
 Ciuffo Moreira, C. A.; Lopes, B.; Cella, P.
-*Revista de Ciência da Computação (ReCiC/UESB)*, v. 8, n. 1, e19583, 2026.
+*Revista de Ciência da Computação (ReCiC/UESB)*, v. 8, n. 1, e19583, 30 jun. 2026.
 DOI: [10.22481/recic.v8i1.19583](https://doi.org/10.22481/recic.v8i1.19583)
 
 **Employee segmentation using clustering techniques: a case study at ApexBrasil.**
 Ciuffo Moreira, C. A.
-*Revista Gestão em Análise (ReGeA)*, v. 15, n. 1, e6206, 2026.
+*Revista Gestão em Análise (ReGeA)*, v. 15, n. 1, e6206, 23 abr. 2026.
 DOI: [10.12662/2359-618xregea.v15i1.6206.pe6206.2026](https://doi.org/10.12662/2359-618xregea.v15i1.6206.pe6206.2026)
 :::
 
@@ -28,12 +29,38 @@ DOI: [10.12662/2359-618xregea.v15i1.6206.pe6206.2026](https://doi.org/10.12662/2
 
 **Temporal Projections for Strategic Planning in Human Resources.**
 Ciuffo Moreira, C. A.
-*Revista Gestão & Tecnologia*, v. 25, n. 5, p. 10–53, 2025.
+*Revista Gestão & Tecnologia*, v. 25, n. 5, p. 10–53, 19 dez. 2025. ISSN 2177-6652.
 DOI: [10.20397/2177-6652/2025.v25i5.3171](https://doi.org/10.20397/2177-6652/2025.v25i5.3171)
+:::
+
+## Trabalhos em eventos
+
+::: {.callout-note appearance="minimal" icon="false"}
+### 2026
+
+**From Replica to Reference: Active Learning in Engineering Education for Digital Twin-Guided Real-System Evolution.**
+*PAEE/ALE 2026 — International Conference on Active Learning in Engineering Education*, 4 ago. 2026.
+[Disponível no ResearchGate](https://www.researchgate.net/publication/412304828_From_Replica_to_Reference_Active_Learning_in_Engineering_Education_for_Digital_Twin-Guided_Real-System_Evolution)
 :::
 
 ## Capítulos de livro
 
-- Capítulo no livro *Projetos de Pesquisa em Data Science*.
+::: {.callout-note appearance="minimal" icon="false"}
+### 2024
+
+**Segmentação de carteira de clientes com base no Cadastro Nacional de Empresas Exportadoras Brasileiras.**
+In: *Projetos de Pesquisa em Data Science: estudo de caso sobre a ApexBrasil*. Instituto Tecnológico de Aeronáutica (ITA), Turma ApexBrasil, 2024. ISBN 978-65-5360-680-7.
+DOI: [10.37885/240717123](https://doi.org/10.37885/240717123)
+:::
+
+## Outros trabalhos
+
+::: {.callout-note appearance="minimal" icon="false"}
+### 2012
+
+**A atuação da Agência Brasileira de Inteligência no campo das relações internacionais brasileiras.**
+Trabalho de conclusão de curso — Especialização em Relações Internacionais, Universidade de Brasília, 2012.
+DOI: [10.26512/2011.04.tcc.2424](https://doi.org/10.26512/2011.04.tcc.2424)
+:::
 
 <!-- Para incluir uma nova publicação, copie um dos blocos acima e edite. -->

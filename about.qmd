@@ -17,13 +17,32 @@ about:
     - icon: mortarboard
       text: ORCID
       href: https://orcid.org/0009-0001-0248-6791
+    - icon: journal-text
+      text: Lattes
+      href: https://lattes.cnpq.br/3058755100021568
+    - icon: person-badge
+      text: SciProfiles
+      href: https://sciprofiles.com/profile/cesarciuffo1
 ---
 
-Sou especialista na **Apex-Brasil** (Agência Brasileira de Promoção de Exportações e Investimentos), onde atuo há mais de 14 anos em gestão estratégica, processos, tecnologia e, hoje, em **Gestão de Pessoas** — com foco em People Analytics, integração de sistemas de RH, governança de dados e LGPD.
+Sou especialista de Promoção de Exportações e Atração de Investimentos na **Apex-Brasil** (Agência Brasileira de Promoção de Exportações e Investimentos), onde trabalho desde 2011 em planejamento estratégico, governança de processos, PMO corporativo, People Analytics e monitoramento de conformidade. Hoje atuo em projetos especiais de tecnologia na **Gestão de Pessoas**.
 
-Sou mestre em Computação Aplicada (Ciência de Dados) e doutorando no **PPCA/UnB**, pesquisando *People Analytics* com **criptografia homomórfica** (esquema CKKS): como analisar dados de pessoas sem expor quem está por trás deles.
+Sou doutorando em Computação Aplicada no **PPCA/UnB**, pesquisando *People Analytics* com **criptografia homomórfica** (esquema CKKS): como analisar dados de pessoas sem expor quem está por trás deles. Meus interesses de pesquisa incluem People Analytics, segmentação de colaboradores e aprendizado de máquina aplicado à inteligência organizacional e comercial.
 
-Antes da Apex-Brasil, trabalhei no setor de telecomunicações (Tele Centro Oeste Celular, Brasil Telecom e Vivo). Moro em Brasília.
+Antes da Apex-Brasil, ocupei posições de liderança em telecomunicações e consultoria (Claro, Vivo, Brasil Telecom/Oi e Plano Consultoria), com foco em inovação, gestão de portfólio, programas e projetos, processos, riscos e inteligência de negócios. Sou certificado **PMP®** e moro em Brasília.
+
+## Formação
+
+- **Doutorado em Computação Aplicada** — PPCA, Universidade de Brasília (em andamento, desde 2026)
+- **Mestrado Profissional em Computação Aplicada** (Ciência de Dados) — PPCA, Universidade de Brasília (2025)
+- **Especialização em Ciência de Dados** — Instituto Tecnológico de Aeronáutica, ITA (2023)
+- **Especialização em Altos Estudos em Defesa** — Escola Superior de Guerra, ESG (2021)
+- **Especialização em Relações Internacionais** — Universidade de Brasília (2011)
+- **Especialização em Gestão de Negócios** — PPGA, Universidade de Brasília (2004)
+- **Especialização em Gerenciamento de Projetos** — FGV/UnB
+- **Bacharelado em Administração** — UniCEUB (2001)
+
+Veja meus artigos na página de [Publicações](publicacoes.qmd).
 
 ## Sobre o CFF
 
