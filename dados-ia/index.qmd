@@ -5,7 +5,15 @@ page-layout: full
 toc: false
 listing:
   - id: posts
-    contents: "*/index.qmd"
+    contents:
+      - "*/index.qmd"
+      - "../gestao/*/index.qmd"
+      - "../estrategia/*/index.qmd"
+      - "../internacional/*/index.qmd"
+      - "../historia/*/index.qmd"
+      - "../cronicas/*/index.qmd"
+    include:
+      secoes: "*dados-ia*"   # posts de outras seções entram se tiverem secoes: "... dados-ia"
     sort: "date desc"
     type: grid
     grid-columns: 3

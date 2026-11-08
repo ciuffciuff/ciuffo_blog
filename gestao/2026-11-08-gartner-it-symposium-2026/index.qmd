@@ -4,6 +4,7 @@ description: "Seis lições do Gartner IT Symposium/Xpo 2026 para quem trabalha 
 author: "César Ciuffo"
 date: "2026-11-08"
 image: capa.png
+secoes: "gestao dados-ia"   # aparece também em Dados & IA
 categories: [Gestão de Pessoas, Inteligência Artificial, People Analytics, Futuro do Trabalho, Eventos]
 ---
 

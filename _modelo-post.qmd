@@ -13,6 +13,7 @@ date: "2026-11-15"
 categories: [Tema 1, Tema 2]
 # image: capa.jpg        # opcional: coloque uma imagem na pasta do post
 # draft: true            # opcional: true = não publica ainda
+# secoes: "gestao dados-ia"   # opcional: faz o post aparecer também em Dados & IA
 ---
 
 Primeiro parágrafo do texto.

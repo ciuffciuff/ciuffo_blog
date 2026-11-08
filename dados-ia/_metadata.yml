@@ -1,3 +1,4 @@
 # Valores padrão para todos os posts desta seção
 title-block-banner: true
 image: /imagens/capa-dados-ia.svg   # capa padrão (cada post pode trocar)
+secoes: "dados-ia"   # aparece na listagem de Dados & IA (posts de outras seções entram com secoes: "... dados-ia")
