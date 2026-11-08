@@ -49,14 +49,14 @@ mostra um selo com as iniciais da empresa.
         <li>Certificação <strong>NBR ISO 9001</strong> da Agência (2022), no escopo de promoção de exportação e de internacionalização por meio do atendimento setorial direto às empresas brasileiras em feiras internacionais.</li>
       </ul>
 
-      <h3>PMO e escritório de processos</h3>
+      <h3>Coordenador do Escritório de Planejamento, Projetos e Processos <span class="traj-tag">2018 – 2020</span></h3>
       <ul>
         <li>Implantação do <strong>PMO corporativo</strong> e criação do Referencial Básico de Gestão de Projetos; estruturação de grandes projetos, como a <strong>Expo Dubai 2020</strong>.</li>
         <li>Escritório de processos: arquitetura de processos corporativa, normativos de processos e riscos, Regimento Interno e sistema normativo.</li>
         <li>Programa de capacitação em gestão de projetos com <strong>mais de 250 profissionais certificados</strong>.</li>
       </ul>
 
-      <h3>Inteligência Comercial e Produtos</h3>
+      <h3>Analista de Inteligência Comercial e Produtos <span class="traj-tag">2011 – 2018</span></h3>
       <ul>
         <li>Missões de inteligência comercial aos <strong>EUA</strong> (Washington, Miami e Chicago), <strong>Emirados Árabes Unidos</strong> (Dubai), <strong>Colômbia</strong> (Bogotá) e <strong>Japão</strong> (Tóquio).</li>
         <li>Estudos setoriais para apoiar a decisão de empresários, incluindo estudo comercial para o setor de Defesa em parceria com o Ministério da Defesa.</li>
